@@ -1,0 +1,121 @@
+provider_id,npi,name,specialty,department_id
+P000001,4963377978,Daniel Jones,Pediatrics,D000011
+P000002,9876407076,Mary Williams,Radiology,D000002
+P000003,3588750028,Sarah Johnson,Radiology,D000004
+P000004,9649733830,Mary Williams,Pediatrics,D000007
+P000005,1006779307,John Davis,Internal Medicine,D000009
+P000006,7705431313,Aisha Johnson,Anesthesiology,D000002
+P000007,4319591232,Linda Johnson,Anesthesiology,D000010
+P000008,2573099345,Emeka Johnson,Cardiology,D000001
+P000009,3048672738,Amina Jones,Endocrinology,D000007
+P000010,6656571544,Robert Ogunleye,Internal Medicine,D000010
+P000011,9906268241,Elizabeth Ogunleye,Hospitalist,D000003
+P000012,6151698659,Patricia Miller,General Surgery,D000002
+P000013,7549681558,Amina Williams,Anesthesiology,D000001
+P000014,3779475962,Kemi Miller,Obstetrics & Gynecology,D000011
+P000015,0530571849,Amina Bello,General Surgery,D000008
+P000016,0207629951,Ifeanyi Balogun,General Surgery,D000005
+P000017,0091153204,Linda Garcia,Nursing,D000004
+P000018,8714936710,John Martinez,Radiology,D000008
+P000019,2700982055,Daniel Balogun,Endocrinology,D000010
+P000020,0908451407,John Brown,Radiology,D000007
+P000021,2039837101,Jennifer Okafor,Family Medicine,D000008
+P000022,4610101841,Aisha Johnson,Hospitalist,D000002
+P000023,6852474128,Amina Okafor,General Surgery,D000012
+P000024,5296257755,Sarah Okoye,Anesthesiology,D000008
+P000025,6064626870,John Williams,Endocrinology,D000008
+P000026,5897762561,John Johnson,Nursing,D000012
+P000027,9340356404,Elizabeth Balogun,Endocrinology,D000012
+P000028,1524875753,Emeka Adewale,Emergency Medicine,D000008
+P000029,7623118421,Sarah Garcia,Anesthesiology,D000002
+P000030,7088123011,Ngozi Johnson,Cardiology,D000005
+P000031,5560932428,Robert Davis,Pediatrics,D000007
+P000032,4900263954,Ngozi Williams,Family Medicine,D000008
+P000033,6999482465,Emeka Ogunleye,Endocrinology,D000003
+P000034,3526432597,Aisha Ogunleye,Endocrinology,D000012
+P000035,5852093224,Aisha Adewale,Hospitalist,D000007
+P000036,3487027884,Linda Jones,Internal Medicine,D000003
+P000037,0417490106,Robert Davis,Hospitalist,D000004
+P000038,2024410023,James Okoye,Anesthesiology,D000003
+P000039,7693568673,Michael Martinez,Emergency Medicine,D000003
+P000040,8564279686,Aisha Ogunleye,General Surgery,D000010
+P000041,1076854307,Ifeanyi Okafor,Family Medicine,D000012
+P000042,4085075159,Oluwaseun Johnson,Obstetrics & Gynecology,D000011
+P000043,4196568594,Amina Eze,Pediatrics,D000007
+P000044,6062316700,Emeka Brown,Obstetrics & Gynecology,D000011
+P000045,4702961228,Emeka Johnson,Cardiology,D000002
+P000046,9724779101,David Balogun,Family Medicine,D000002
+P000047,8746148733,Daniel Johnson,Internal Medicine,D000001
+P000048,6495799769,Ifeanyi Jones,Radiology,D000002
+P000049,8862225141,Sarah Smith,Internal Medicine,D000004
+P000050,4953587085,Kemi Eze,Family Medicine,D000011
+P000051,4047061076,Michael Adewale,Anesthesiology,D000006
+P000052,0367487963,Ngozi Brown,Internal Medicine,D000008
+P000053,9254115121,Chinedu Okoye,Obstetrics & Gynecology,D000005
+P000054,7128656832,John Jones,Internal Medicine,D000012
+P000055,1504374405,Daniel Rodriguez,Obstetrics & Gynecology,D000012
+P000056,2569675748,Jennifer Danladi,Emergency Medicine,D000004
+P000057,7783370067,Oluwaseun Adewale,Family Medicine,D000012
+P000058,0274258053,Amina Smith,Radiology,D000005
+P000059,4580593501,John Rodriguez,Radiology,D000006
+P000060,7772364827,Jennifer Adewale,Cardiology,D000009
+P000061,5729302994,Amina Danladi,General Surgery,D000011
+P000062,3563848142,Linda Miller,Cardiology,D000007
+P000063,8509811419,Linda Miller,Radiology,D000008
+P000064,2969912156,Sarah Smith,Emergency Medicine,D000005
+P000065,2681600517,Ngozi Rodriguez,Cardiology,D000012
+P000066,4264173081,Kemi Adewale,Obstetrics & Gynecology,D000012
+P000067,6090733229,Sarah Adewale,Internal Medicine,D000004
+P000068,0950235908,Patricia Davis,Obstetrics & Gynecology,D000004
+P000069,0705731026,Daniel Miller,Obstetrics & Gynecology,D000010
+P000070,1812297044,Kemi Smith,Obstetrics & Gynecology,D000011
+P000071,0547107156,Sarah Williams,Hospitalist,D000002
+P000072,8406932010,Emeka Miller,Obstetrics & Gynecology,D000003
+P000073,8271969468,Aisha Okafor,Internal Medicine,D000012
+P000074,1795861070,Emeka Balogun,Pediatrics,D000012
+P000075,7030408626,John Garcia,Family Medicine,D000003
+P000076,2016494176,James Jones,Anesthesiology,D000008
+P000077,2701772300,Robert Okoye,Hospitalist,D000006
+P000078,5998091409,Robert Ogunleye,Radiology,D000003
+P000079,3235208660,James Smith,Nursing,D000011
+P000080,5127321695,Patricia Danladi,Nursing,D000003
+P000081,7888899893,Aisha Miller,Cardiology,D000001
+P000082,1018098744,Michael Miller,Endocrinology,D000009
+P000083,0533611520,Linda Okafor,Endocrinology,D000009
+P000084,5034138542,Aisha Jones,Emergency Medicine,D000012
+P000085,1331667671,Sarah Balogun,Hospitalist,D000010
+P000086,5364904382,Oluwaseun Bello,Radiology,D000003
+P000087,8392196949,Amina Jones,Radiology,D000009
+P000088,6789646457,James Balogun,Family Medicine,D000010
+P000089,4052545174,James Jones,Family Medicine,D000003
+P000090,4428766806,Ngozi Brown,Radiology,D000001
+P000091,2684783340,Daniel Danladi,Radiology,D000009
+P000092,2882568073,Ngozi Brown,Radiology,D000001
+P000093,7855064183,Linda Miller,Endocrinology,D000001
+P000094,9547396659,Patricia Danladi,Obstetrics & Gynecology,D000009
+P000095,2776320493,James Williams,Obstetrics & Gynecology,D000006
+P000096,0103205839,Kemi Danladi,Anesthesiology,D000009
+P000097,2495176639,David Rodriguez,Obstetrics & Gynecology,D000009
+P000098,9988647480,Amina Okoye,Radiology,D000004
+P000099,0935571880,Oluwaseun Rodriguez,Radiology,D000004
+P000100,7061988159,Chinedu Jones,Pediatrics,D000002
+P000101,1196369361,Emeka Balogun,General Surgery,D000002
+P000102,0660690811,Linda Bello,Internal Medicine,D000004
+P000103,2130354381,Elizabeth Brown,Family Medicine,D000012
+P000104,5199129600,Sarah Jones,Endocrinology,D000003
+P000105,8600151745,Chinedu Davis,Nursing,D000002
+P000106,5141580700,Emeka Okoye,Family Medicine,D000011
+P000107,8634465467,Linda Garcia,Nursing,D000007
+P000108,6541805171,Oluwaseun Eze,General Surgery,D000007
+P000109,9430680570,David Adewale,General Surgery,D000002
+P000110,5700299214,Sarah Smith,General Surgery,D000009
+P000111,2852182881,Chinedu Balogun,Nursing,D000001
+P000112,6497732955,Emeka Okafor,Radiology,D000010
+P000113,5825836693,Elizabeth Danladi,Internal Medicine,D000002
+P000114,9867657040,Linda Brown,Internal Medicine,D000005
+P000115,2576844021,Michael Johnson,Family Medicine,D000005
+P000116,8590440012,Robert Bello,Hospitalist,D000005
+P000117,4778718568,Emeka Jones,Radiology,D000009
+P000118,3972601564,Ifeanyi Okoye,Nursing,D000006
+P000119,5175382566,John Rodriguez,Emergency Medicine,D000012
+P000120,1438467047,Jennifer Bello,Internal Medicine,D000005

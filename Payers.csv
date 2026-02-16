@@ -1,0 +1,7 @@
+payer_id,payer_name,plan_type
+Y000001,National Health Insurance,Public
+Y000002,Blue Shield Health,Commercial
+Y000003,GreenCare HMO,HMO
+Y000004,Private Self-Pay,Self-Pay
+Y000005,Employer Plan A,Commercial
+Y000006,Community Aid,Public

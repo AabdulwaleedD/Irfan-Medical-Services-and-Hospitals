@@ -1,0 +1,2801 @@
+survey_id,encounter_id,likelihood_to_recommend,staff_communication,cleanliness,overall,comments
+S403208,E002953,4,3,5,3,
+S947817,E007004,8,1,2,2,Facilities need improvement
+S625349,E004536,8,3,2,4,Nurse was helpful
+S515249,E003732,4,3,3,5,Nurse was helpful
+S955787,E002821,8,2,4,1,Great care
+S299683,E003316,6,4,1,3,Long wait time
+S006835,E002583,1,1,3,5,Facilities need improvement
+S015889,E007077,1,3,1,5,Long wait time
+S313603,E007580,5,1,2,5,Nurse was helpful
+S486934,E003628,4,1,3,3,Facilities need improvement
+S328396,E005587,3,4,5,3,Facilities need improvement
+S689987,E002146,2,1,4,4,Nurse was helpful
+S696962,E004678,9,1,2,2,Great care
+S360290,E002203,7,1,1,2,Facilities need improvement
+S121838,E002713,3,5,3,5,Great care
+S081692,E002375,4,1,2,3,Nurse was helpful
+S184574,E005069,4,5,5,3,Facilities need improvement
+S428581,E000639,7,2,4,1,Doctor explained well
+S461464,E004149,5,5,4,4,Great care
+S471361,E006752,2,5,3,3,
+S079026,E004490,4,4,2,4,
+S816256,E005686,7,3,4,3,Long wait time
+S442755,E002039,5,2,3,2,
+S922298,E007324,2,3,4,5,Great care
+S533151,E005414,2,4,1,3,Great care
+S873494,E000306,5,1,5,4,Long wait time
+S404975,E001827,8,5,1,4,
+S263718,E005158,1,5,5,2,Facilities need improvement
+S120760,E000934,7,2,4,3,Nurse was helpful
+S037716,E002723,10,1,3,5,Great care
+S717992,E007795,6,5,2,3,Doctor explained well
+S562395,E006124,10,1,5,3,
+S532010,E005977,10,1,1,1,Great care
+S308897,E004417,3,4,3,2,
+S867733,E001227,4,5,3,3,Long wait time
+S029640,E000273,2,4,3,4,Long wait time
+S395585,E004925,5,1,1,4,Facilities need improvement
+S806863,E004287,1,5,3,2,Great care
+S051356,E000695,2,4,1,5,Facilities need improvement
+S261476,E005746,3,5,1,1,Great care
+S553445,E004415,9,3,2,4,Facilities need improvement
+S506674,E000338,9,2,1,4,
+S074343,E002348,7,3,2,5,Doctor explained well
+S542115,E005144,6,2,2,4,Facilities need improvement
+S624230,E006309,6,3,5,4,Doctor explained well
+S162100,E002901,9,4,3,5,Great care
+S052975,E001152,0,2,5,2,
+S801892,E005292,4,5,1,3,Nurse was helpful
+S534674,E003266,2,1,3,2,Doctor explained well
+S720935,E007846,7,3,5,2,Great care
+S313376,E007600,8,4,4,1,Long wait time
+S585898,E004913,8,4,4,1,Long wait time
+S000492,E000412,0,5,3,5,Nurse was helpful
+S549264,E002914,2,2,1,2,
+S432306,E007215,3,5,5,1,Doctor explained well
+S471083,E003787,1,1,5,3,
+S511754,E000959,6,2,1,4,Long wait time
+S856434,E004927,7,2,3,2,Doctor explained well
+S854951,E004332,8,5,1,4,Great care
+S168095,E000174,0,1,5,5,Nurse was helpful
+S951362,E003821,10,1,2,5,Great care
+S965115,E000947,8,2,2,2,Facilities need improvement
+S932398,E003934,1,5,2,4,Facilities need improvement
+S487123,E003350,5,2,2,1,Nurse was helpful
+S350706,E002240,3,3,3,4,
+S709009,E001479,2,1,2,5,Facilities need improvement
+S651234,E001475,9,3,3,1,Great care
+S628167,E002824,10,3,3,3,Great care
+S441848,E000911,1,3,3,1,Nurse was helpful
+S009419,E002352,3,1,2,3,
+S346546,E000184,6,4,4,4,Long wait time
+S119343,E004103,6,4,3,4,Long wait time
+S488215,E005613,4,5,2,5,Nurse was helpful
+S947248,E004869,8,1,1,5,Great care
+S353025,E006928,3,5,2,5,Nurse was helpful
+S635893,E000739,1,3,3,1,Long wait time
+S256661,E006085,2,2,3,5,Doctor explained well
+S945941,E001659,2,3,5,4,Nurse was helpful
+S146165,E004601,10,4,1,4,Great care
+S678020,E005249,6,2,4,4,Facilities need improvement
+S928785,E002035,4,3,3,3,
+S136195,E002281,10,4,3,4,Doctor explained well
+S432202,E007823,2,5,5,5,
+S148306,E007860,2,2,2,5,Great care
+S518772,E007766,8,5,5,4,Nurse was helpful
+S833040,E007820,5,5,2,3,Great care
+S193695,E003273,7,3,4,1,Long wait time
+S270426,E005180,9,4,5,1,Long wait time
+S098043,E000210,5,4,1,2,Nurse was helpful
+S823162,E001231,4,2,4,4,Doctor explained well
+S026583,E000292,6,4,5,4,
+S957259,E001089,3,3,4,4,Long wait time
+S608747,E002849,3,5,4,2,Doctor explained well
+S018864,E007377,8,4,1,3,Nurse was helpful
+S880096,E000399,8,5,1,1,
+S729762,E001593,10,2,2,2,Facilities need improvement
+S441958,E001557,10,4,5,2,Long wait time
+S167405,E005252,8,4,5,3,Long wait time
+S399891,E003462,6,3,3,1,Long wait time
+S520207,E000909,0,1,3,5,Long wait time
+S054619,E007785,1,2,2,1,Long wait time
+S197595,E006176,8,3,2,1,Long wait time
+S554725,E001534,6,1,4,2,Nurse was helpful
+S798614,E001375,3,5,2,1,Facilities need improvement
+S598088,E003166,2,4,2,4,Great care
+S689045,E007512,0,3,1,3,Long wait time
+S794470,E005255,8,3,3,4,
+S994005,E003015,7,3,2,5,Great care
+S375888,E007346,0,4,4,3,Long wait time
+S492629,E002187,9,5,2,1,Facilities need improvement
+S658391,E007441,3,5,4,2,Nurse was helpful
+S987251,E004090,5,3,4,5,Long wait time
+S059775,E002879,9,1,4,5,Long wait time
+S313768,E005861,2,3,3,2,Great care
+S802939,E007130,10,1,5,3,
+S776520,E002465,3,1,2,2,Doctor explained well
+S442109,E007152,7,1,3,2,Great care
+S933286,E000745,3,4,3,1,Long wait time
+S269813,E005953,2,4,4,2,Great care
+S006615,E003773,7,3,4,3,Facilities need improvement
+S749862,E001772,9,2,1,5,Doctor explained well
+S826781,E003833,7,4,1,1,Great care
+S659475,E001496,4,5,2,3,Long wait time
+S651688,E004391,9,3,3,5,Nurse was helpful
+S337255,E000223,1,3,3,2,Doctor explained well
+S012354,E000778,9,2,3,3,
+S256938,E003351,6,5,4,2,
+S002427,E006969,3,5,5,4,Doctor explained well
+S629196,E006138,9,3,2,2,
+S348371,E002570,7,4,1,3,Great care
+S119911,E001247,10,2,5,1,Doctor explained well
+S385410,E000755,1,2,1,3,Long wait time
+S027494,E003806,9,3,4,4,Facilities need improvement
+S529537,E001962,8,4,3,4,Nurse was helpful
+S189644,E002493,4,3,4,4,Long wait time
+S316430,E007198,0,4,2,5,Nurse was helpful
+S088526,E004308,4,1,5,1,Great care
+S683356,E004849,6,2,5,2,Nurse was helpful
+S081536,E007371,3,3,3,5,Nurse was helpful
+S786388,E005518,4,1,1,4,
+S214557,E006802,4,2,5,3,
+S363235,E001977,7,2,1,2,Long wait time
+S228134,E000821,9,2,5,4,Long wait time
+S204015,E003274,1,3,3,2,Facilities need improvement
+S757554,E002433,7,1,1,1,Great care
+S862167,E006277,6,2,4,4,Long wait time
+S010486,E004620,8,3,3,4,
+S528148,E003649,3,4,4,2,Facilities need improvement
+S279648,E003109,4,4,4,4,Doctor explained well
+S659509,E001201,5,1,2,4,Great care
+S009695,E002254,1,5,2,4,Doctor explained well
+S023860,E001038,8,3,4,2,Facilities need improvement
+S701872,E005899,8,5,5,4,Doctor explained well
+S986883,E004434,8,2,1,1,Nurse was helpful
+S866979,E006598,10,5,1,1,Facilities need improvement
+S734293,E003286,8,3,3,2,Facilities need improvement
+S263528,E007076,2,3,2,1,Nurse was helpful
+S378344,E000883,0,3,4,5,Long wait time
+S902174,E007952,1,4,2,4,Long wait time
+S826682,E007245,4,5,5,1,Facilities need improvement
+S391927,E001603,4,5,5,4,Facilities need improvement
+S472331,E004197,7,4,3,3,Facilities need improvement
+S681221,E007619,10,1,4,4,Nurse was helpful
+S370270,E000762,5,5,5,5,
+S780360,E001487,2,4,5,5,Facilities need improvement
+S025013,E002468,7,3,2,2,
+S172006,E006729,6,3,2,1,Great care
+S377840,E000182,9,1,3,5,Great care
+S216162,E007650,4,5,5,1,Nurse was helpful
+S103382,E007089,4,4,2,3,Facilities need improvement
+S218256,E002238,8,4,2,5,
+S630910,E004321,4,1,3,4,Doctor explained well
+S807225,E000763,10,3,3,5,Long wait time
+S143199,E000794,7,4,4,1,
+S738791,E005349,7,2,2,5,Facilities need improvement
+S817141,E003366,5,1,4,5,Nurse was helpful
+S337050,E003489,4,3,2,5,Long wait time
+S168543,E000774,3,3,3,1,
+S396655,E004315,2,3,1,1,Great care
+S115162,E002516,4,4,4,4,Doctor explained well
+S561229,E000451,2,3,5,1,Doctor explained well
+S802970,E001383,6,1,3,2,Nurse was helpful
+S800864,E007793,7,1,1,2,Nurse was helpful
+S812939,E005995,4,5,1,2,Great care
+S477914,E000071,9,3,1,2,Doctor explained well
+S988452,E006187,5,5,4,4,Facilities need improvement
+S992258,E005435,5,2,5,4,Great care
+S388099,E004493,9,4,3,5,Nurse was helpful
+S678358,E006630,5,1,2,4,
+S119896,E001326,4,3,3,1,
+S949498,E004019,2,3,3,3,
+S557910,E003575,3,1,3,4,Great care
+S120758,E003160,1,4,1,2,Great care
+S516702,E005684,2,5,2,2,Great care
+S336872,E003314,6,3,2,1,Great care
+S580166,E001554,3,3,1,4,Great care
+S609517,E006674,5,4,1,2,Nurse was helpful
+S530733,E006846,8,4,3,3,Nurse was helpful
+S149500,E005335,10,4,2,2,
+S890088,E007984,6,3,1,3,Doctor explained well
+S554192,E000019,7,3,3,1,Long wait time
+S324990,E004314,8,4,1,1,Nurse was helpful
+S763361,E003906,6,3,2,4,Nurse was helpful
+S821148,E002547,4,4,4,2,Facilities need improvement
+S187723,E003556,0,1,5,3,
+S686889,E003611,1,3,1,5,
+S331647,E004995,3,2,5,1,Great care
+S901379,E003208,4,2,5,1,Great care
+S666915,E007122,10,5,3,4,Great care
+S126934,E001913,1,5,4,2,Facilities need improvement
+S012285,E004006,10,4,2,3,Nurse was helpful
+S344678,E005233,10,4,5,4,Facilities need improvement
+S509507,E007729,3,3,3,3,Facilities need improvement
+S342671,E003921,9,1,5,5,Long wait time
+S120359,E004857,10,2,3,4,Facilities need improvement
+S251524,E005157,3,2,5,4,Nurse was helpful
+S482291,E005151,8,1,3,2,Facilities need improvement
+S890968,E006535,5,2,2,1,Long wait time
+S515348,E000487,10,4,4,1,Facilities need improvement
+S434696,E005347,4,4,2,5,Doctor explained well
+S935700,E000876,9,5,1,4,
+S483245,E005830,5,5,1,1,Nurse was helpful
+S625046,E002945,2,3,1,1,Long wait time
+S837327,E000746,3,2,1,1,Doctor explained well
+S732566,E000989,10,5,2,2,Great care
+S436274,E000592,10,1,5,1,Nurse was helpful
+S366651,E006057,9,3,2,2,Nurse was helpful
+S209570,E005516,2,3,2,5,Doctor explained well
+S992768,E006164,4,1,2,3,
+S446446,E005930,9,1,2,1,Nurse was helpful
+S738049,E005091,1,4,2,2,Nurse was helpful
+S788607,E002440,9,3,5,3,Great care
+S680048,E006909,10,5,4,1,
+S024492,E001086,5,1,2,5,Facilities need improvement
+S700712,E001631,8,1,4,5,Long wait time
+S646099,E004760,9,1,4,4,Long wait time
+S171568,E007101,8,4,5,2,Great care
+S872927,E004967,10,5,2,4,Nurse was helpful
+S748721,E001807,2,1,1,2,Doctor explained well
+S556786,E001064,2,4,1,3,Great care
+S360954,E004108,4,1,2,4,Doctor explained well
+S992085,E003442,4,3,2,1,Long wait time
+S443274,E004877,0,1,5,4,Nurse was helpful
+S230464,E003739,0,5,3,4,Nurse was helpful
+S975861,E004337,7,4,5,5,Long wait time
+S091759,E007910,7,1,5,2,Doctor explained well
+S615227,E001598,5,3,5,1,
+S287217,E003447,9,1,1,2,Facilities need improvement
+S187277,E005056,6,5,5,4,
+S340224,E007713,4,3,1,1,
+S248641,E004960,7,3,3,4,Long wait time
+S130896,E001587,2,2,3,2,Nurse was helpful
+S426783,E001695,10,2,1,1,
+S285986,E001620,9,3,1,2,Facilities need improvement
+S163236,E001119,6,2,2,1,Nurse was helpful
+S700609,E003010,3,2,3,1,
+S568968,E001396,2,1,4,1,Long wait time
+S042399,E007298,2,2,5,1,Great care
+S292715,E000924,0,2,2,5,Great care
+S831389,E006667,7,1,5,5,Doctor explained well
+S113963,E001458,8,5,3,2,Nurse was helpful
+S155569,E005641,2,3,1,1,Long wait time
+S931854,E004453,0,1,3,3,
+S580227,E004213,4,5,4,1,Nurse was helpful
+S174427,E003376,8,4,2,3,Nurse was helpful
+S616367,E007848,6,4,1,2,
+S283185,E002078,9,5,2,5,Great care
+S191450,E007400,10,1,5,1,Facilities need improvement
+S896458,E003898,9,4,5,3,Great care
+S113240,E003247,4,2,5,2,
+S317753,E000520,0,2,5,3,
+S521508,E007459,2,1,2,4,Facilities need improvement
+S049387,E005268,6,4,3,2,Long wait time
+S348834,E001162,10,1,5,1,Facilities need improvement
+S283136,E001452,9,5,5,1,Long wait time
+S088298,E006125,5,1,2,4,
+S697074,E000721,8,4,4,4,Long wait time
+S024295,E000590,6,4,5,2,Great care
+S830642,E004664,2,1,4,4,Facilities need improvement
+S064967,E007569,9,5,3,5,Nurse was helpful
+S044497,E003493,8,5,2,4,Nurse was helpful
+S114247,E006558,6,2,1,3,Great care
+S307724,E000777,3,3,1,1,Long wait time
+S521340,E006975,3,4,3,4,Long wait time
+S850716,E001237,0,3,4,2,
+S230262,E000423,6,4,3,3,Facilities need improvement
+S756426,E006244,10,5,4,2,Great care
+S182648,E003804,3,4,2,2,Facilities need improvement
+S345179,E005512,2,3,4,1,Long wait time
+S692922,E006206,2,2,1,5,Long wait time
+S872424,E007817,3,3,3,1,Great care
+S951092,E004616,3,2,5,1,Great care
+S184484,E002034,9,3,1,5,Doctor explained well
+S249400,E003415,3,3,5,2,Long wait time
+S944214,E003605,1,3,2,2,Doctor explained well
+S483113,E001343,1,4,1,4,Long wait time
+S115663,E001243,7,1,2,2,Long wait time
+S073653,E005840,6,4,3,5,
+S093027,E006770,7,5,2,2,Doctor explained well
+S847712,E007225,9,1,1,3,Doctor explained well
+S817560,E001413,5,2,3,4,Facilities need improvement
+S322128,E006735,1,2,5,1,Great care
+S102637,E001561,5,3,4,2,Great care
+S153690,E007903,1,1,1,3,Doctor explained well
+S118799,E005707,10,5,5,5,Great care
+S099429,E005713,3,2,2,2,
+S281892,E006700,2,2,2,4,
+S527961,E007184,1,2,2,3,Doctor explained well
+S541646,E002280,0,5,2,2,Great care
+S410346,E007189,3,4,2,3,
+S536337,E003895,7,3,5,5,Great care
+S814949,E004368,4,1,5,1,Facilities need improvement
+S210214,E001185,2,2,4,4,Facilities need improvement
+S906209,E001004,5,2,4,5,Doctor explained well
+S338550,E000216,2,3,1,1,Doctor explained well
+S891225,E003067,0,2,4,3,Doctor explained well
+S197713,E001567,4,4,5,2,Facilities need improvement
+S854340,E004979,2,4,1,5,Great care
+S583680,E003461,10,3,4,1,Great care
+S218260,E002965,6,2,2,2,Nurse was helpful
+S113873,E002371,0,1,3,1,Nurse was helpful
+S476579,E003534,9,4,5,3,
+S185538,E004610,9,1,4,1,Nurse was helpful
+S361211,E002613,8,1,3,3,Facilities need improvement
+S683036,E004322,4,4,1,1,
+S208504,E005871,6,2,4,1,Doctor explained well
+S042581,E007948,10,2,3,1,Facilities need improvement
+S425677,E006742,1,2,1,5,Facilities need improvement
+S921900,E001838,2,3,4,3,Doctor explained well
+S675987,E001636,0,2,3,1,Great care
+S750373,E001356,7,3,5,1,Facilities need improvement
+S359359,E004339,2,3,3,3,Doctor explained well
+S040170,E003676,9,3,3,1,Doctor explained well
+S085375,E004424,6,1,4,1,Doctor explained well
+S464924,E006291,4,2,2,1,Great care
+S729319,E001580,10,2,1,4,Nurse was helpful
+S473671,E004946,1,4,4,2,Great care
+S972647,E007363,4,5,3,1,Long wait time
+S230668,E002482,10,5,1,4,Long wait time
+S567197,E005498,6,4,4,5,
+S072156,E004372,0,2,2,1,
+S286645,E004783,4,4,4,3,Nurse was helpful
+S925936,E003042,2,4,2,1,Long wait time
+S221139,E005326,8,2,5,3,Great care
+S500827,E003076,0,3,4,5,
+S332681,E000454,10,3,3,1,Nurse was helpful
+S997284,E005035,6,5,4,3,Long wait time
+S269630,E002684,2,3,5,1,Doctor explained well
+S102216,E004915,1,5,1,5,Doctor explained well
+S735946,E004265,10,5,4,3,Great care
+S928168,E005000,1,1,1,3,Great care
+S320105,E003776,3,1,2,5,Doctor explained well
+S143570,E006703,2,2,2,2,Long wait time
+S190934,E007968,10,4,2,3,Long wait time
+S912077,E000189,2,3,3,1,
+S386178,E002534,8,1,3,4,Facilities need improvement
+S404130,E003111,5,5,5,3,Long wait time
+S981594,E007306,8,2,3,2,Great care
+S405364,E007412,0,2,5,1,Nurse was helpful
+S235261,E005581,10,3,4,2,Nurse was helpful
+S155903,E003391,1,2,1,4,Nurse was helpful
+S828525,E002658,4,1,2,2,Long wait time
+S232445,E002586,5,5,3,5,Great care
+S889904,E007543,10,4,3,3,
+S440012,E002289,3,2,1,3,Facilities need improvement
+S190304,E004381,0,1,1,1,Nurse was helpful
+S149380,E006908,8,3,4,4,
+S834640,E002530,0,1,3,4,Long wait time
+S242901,E004786,2,3,1,5,Doctor explained well
+S678252,E003180,7,4,1,2,Facilities need improvement
+S619124,E003446,8,2,2,5,Doctor explained well
+S245011,E000915,5,2,2,5,Facilities need improvement
+S672828,E004839,2,1,3,5,Great care
+S344331,E001891,4,4,5,1,Facilities need improvement
+S165084,E007392,9,3,4,1,Great care
+S204745,E003963,8,2,2,1,Nurse was helpful
+S699744,E004233,6,4,4,5,Great care
+S807470,E004853,8,4,2,5,Facilities need improvement
+S825724,E006253,4,1,4,1,Facilities need improvement
+S760598,E005999,10,2,3,4,Nurse was helpful
+S118548,E001427,1,4,5,3,Facilities need improvement
+S119858,E004356,3,4,4,3,Facilities need improvement
+S105762,E001866,5,1,1,1,Nurse was helpful
+S492321,E006081,0,2,3,2,Long wait time
+S106051,E001983,7,2,4,5,Doctor explained well
+S595191,E002885,10,1,1,1,Facilities need improvement
+S197454,E004375,7,4,5,1,Long wait time
+S361476,E002480,9,1,1,5,Facilities need improvement
+S848597,E004279,3,3,3,5,Long wait time
+S806392,E003243,10,5,5,1,Doctor explained well
+S133658,E005239,10,4,2,4,Doctor explained well
+S215157,E003187,1,5,3,5,Nurse was helpful
+S888183,E005465,4,4,3,4,Great care
+S891149,E000828,8,3,2,4,
+S193926,E003950,3,4,1,1,Nurse was helpful
+S428960,E004606,1,3,1,2,
+S838096,E004124,1,1,3,4,Facilities need improvement
+S159146,E000381,8,3,4,3,Nurse was helpful
+S974468,E007494,5,1,3,1,Doctor explained well
+S828878,E001839,8,5,1,4,Nurse was helpful
+S398251,E003602,7,5,4,1,Facilities need improvement
+S445197,E004489,4,2,5,1,
+S751249,E002539,9,2,2,2,Doctor explained well
+S262232,E001123,9,3,2,3,Facilities need improvement
+S496951,E007027,8,3,2,5,
+S646478,E005034,10,5,3,3,
+S708503,E006223,1,2,1,2,Doctor explained well
+S462847,E002456,3,5,2,3,Doctor explained well
+S165779,E000532,6,1,5,1,Doctor explained well
+S252677,E000414,0,4,5,2,Facilities need improvement
+S121903,E006006,7,3,1,3,Doctor explained well
+S468102,E004936,10,4,2,4,
+S447322,E004426,7,2,5,5,Doctor explained well
+S839066,E005528,9,5,5,2,Facilities need improvement
+S624809,E002144,3,5,2,2,Great care
+S361469,E004264,4,5,5,4,Long wait time
+S300854,E000744,8,3,1,1,Doctor explained well
+S035534,E004997,10,1,2,3,
+S120684,E001090,7,2,4,1,Facilities need improvement
+S592393,E001410,5,2,5,3,
+S374629,E006408,5,1,5,1,
+S938088,E007778,9,5,4,3,Facilities need improvement
+S093970,E000180,9,4,3,2,Doctor explained well
+S315879,E005026,2,4,1,5,Great care
+S608539,E001454,6,1,2,3,Long wait time
+S914554,E002706,0,2,4,1,Great care
+S560968,E000438,5,1,1,3,Great care
+S152093,E007577,9,4,5,4,
+S167410,E001858,4,4,4,3,Facilities need improvement
+S914782,E002776,1,1,4,1,Great care
+S098233,E004130,10,2,1,5,Doctor explained well
+S856211,E007945,2,2,2,5,Nurse was helpful
+S059869,E005367,4,4,1,4,
+S285017,E002690,4,2,2,2,Long wait time
+S471555,E005942,0,1,2,3,Doctor explained well
+S997550,E001705,10,1,2,3,Great care
+S924323,E004031,10,1,1,5,Facilities need improvement
+S556793,E003930,7,1,2,1,Nurse was helpful
+S007379,E000246,1,2,3,2,Doctor explained well
+S356786,E005304,1,3,2,3,Facilities need improvement
+S835392,E003573,7,2,2,2,Facilities need improvement
+S070335,E007338,4,4,2,4,Doctor explained well
+S830272,E004529,8,5,1,2,Nurse was helpful
+S021379,E001907,10,5,4,1,Doctor explained well
+S877548,E000051,8,4,2,3,
+S367869,E003592,7,4,3,4,Long wait time
+S761783,E006272,7,3,5,1,Great care
+S314252,E000322,7,5,1,4,Nurse was helpful
+S090382,E007224,0,1,1,4,
+S086887,E006902,2,2,1,2,Nurse was helpful
+S333367,E006950,4,1,3,4,Nurse was helpful
+S216574,E005310,8,4,4,3,Great care
+S933916,E001216,6,1,3,3,Nurse was helpful
+S895252,E000479,3,1,3,5,Doctor explained well
+S668473,E006827,2,3,2,3,Nurse was helpful
+S340479,E006269,6,1,1,4,Facilities need improvement
+S205028,E006749,4,3,5,1,Long wait time
+S462995,E004107,5,3,2,3,Facilities need improvement
+S947385,E000300,2,3,2,2,Doctor explained well
+S075278,E006134,3,4,5,4,Great care
+S778166,E002368,3,3,2,5,Doctor explained well
+S094739,E005873,0,5,1,1,Doctor explained well
+S083614,E005727,4,2,5,5,Long wait time
+S835181,E003023,8,4,3,1,Long wait time
+S834249,E002377,7,3,3,2,Facilities need improvement
+S189508,E003156,8,4,2,5,Facilities need improvement
+S827799,E004469,8,5,1,3,Great care
+S823439,E005976,10,3,2,5,Nurse was helpful
+S487406,E005665,10,3,5,1,Long wait time
+S293257,E005371,9,2,4,3,Long wait time
+S064146,E006973,6,5,1,3,Doctor explained well
+S001621,E000232,1,1,5,3,Long wait time
+S452001,E003616,8,3,2,5,Long wait time
+S835045,E005108,5,4,4,5,Long wait time
+S000052,E004227,0,5,1,3,Long wait time
+S658622,E002129,10,3,1,2,Nurse was helpful
+S406381,E007393,0,4,1,2,Nurse was helpful
+S878170,E006070,9,5,4,4,
+S811135,E001761,8,5,1,2,Nurse was helpful
+S144804,E005619,5,5,4,1,Long wait time
+S626949,E006855,9,3,3,3,Facilities need improvement
+S126649,E002773,5,5,3,3,Nurse was helpful
+S087491,E005882,1,5,2,2,Nurse was helpful
+S105011,E005434,8,1,3,5,Doctor explained well
+S531449,E002544,9,1,3,5,Doctor explained well
+S269420,E002464,0,4,5,1,Long wait time
+S713500,E004350,1,5,2,2,Great care
+S383838,E007689,9,3,4,2,Nurse was helpful
+S290583,E003685,9,3,2,1,Nurse was helpful
+S149065,E001884,10,5,1,5,Doctor explained well
+S503316,E003249,1,1,1,1,Long wait time
+S830256,E005386,9,3,1,5,
+S917558,E001024,9,1,5,4,Nurse was helpful
+S767160,E006838,4,1,1,1,Long wait time
+S898401,E007792,2,5,4,5,Long wait time
+S020540,E004804,3,3,3,3,Facilities need improvement
+S383279,E007873,7,4,3,3,
+S266775,E007460,2,3,1,1,
+S113469,E002558,1,2,5,4,Great care
+S875039,E006144,10,1,1,1,Long wait time
+S398025,E002410,4,5,5,5,Long wait time
+S746336,E003378,8,3,1,3,Long wait time
+S321367,E000200,6,4,3,4,
+S841718,E006285,7,3,1,1,Nurse was helpful
+S544602,E004191,0,4,3,1,
+S784284,E004114,8,2,5,5,Facilities need improvement
+S812014,E006444,2,4,2,2,Long wait time
+S580796,E003321,0,1,2,1,Doctor explained well
+S874142,E000387,6,3,4,2,Facilities need improvement
+S178060,E005271,8,3,4,2,Long wait time
+S301396,E003046,10,3,1,4,Long wait time
+S293760,E000316,10,1,5,4,Long wait time
+S068762,E002831,5,5,4,1,Doctor explained well
+S602926,E007417,4,2,2,3,Great care
+S586177,E005164,10,3,3,3,Doctor explained well
+S276398,E006089,5,1,5,4,Facilities need improvement
+S570368,E003594,9,4,5,3,
+S849433,E002478,8,5,1,1,Long wait time
+S327552,E000574,10,1,5,3,Nurse was helpful
+S295002,E000170,10,1,2,5,Long wait time
+S540048,E002047,7,5,2,1,Doctor explained well
+S952937,E003129,1,1,3,4,Long wait time
+S658563,E002871,4,5,4,1,Facilities need improvement
+S083476,E007754,2,1,3,2,Facilities need improvement
+S931682,E003540,1,3,2,3,Great care
+S519884,E004563,4,4,5,1,Doctor explained well
+S259016,E000805,7,4,1,2,Doctor explained well
+S560968,E002483,9,3,4,2,Facilities need improvement
+S400324,E005285,10,1,5,1,Facilities need improvement
+S721658,E002372,9,3,5,4,Great care
+S415729,E002067,1,5,1,4,Facilities need improvement
+S996708,E007035,10,1,1,1,Doctor explained well
+S849178,E006205,7,4,4,2,
+S351910,E001814,9,1,4,5,Long wait time
+S010280,E001179,4,1,4,5,Long wait time
+S553520,E005314,9,1,4,4,
+S053683,E001354,6,3,5,4,Doctor explained well
+S449463,E004098,1,3,5,3,Long wait time
+S497388,E007032,8,3,4,4,Great care
+S500607,E000358,2,5,4,5,Long wait time
+S418806,E002862,6,4,1,4,
+S368415,E005095,2,3,2,3,Facilities need improvement
+S729727,E007571,4,4,5,5,Great care
+S445873,E003560,8,3,1,3,Great care
+S497041,E000583,0,5,2,3,Nurse was helpful
+S204376,E000640,2,5,4,5,Nurse was helpful
+S624626,E005951,2,5,3,5,Nurse was helpful
+S167130,E006066,10,1,3,2,Facilities need improvement
+S419830,E004689,3,2,1,4,Long wait time
+S853608,E003639,1,1,1,1,
+S580498,E005032,8,3,5,5,Facilities need improvement
+S254028,E004340,3,2,3,2,
+S367991,E000619,7,5,2,1,
+S266737,E004141,0,3,1,3,Great care
+S485694,E003958,5,5,5,2,Facilities need improvement
+S978002,E000408,7,3,4,3,Facilities need improvement
+S604938,E003255,0,2,3,3,
+S924872,E006111,10,5,1,3,Long wait time
+S014430,E006751,10,1,2,5,
+S346336,E001391,9,3,5,2,Facilities need improvement
+S985749,E006360,6,3,3,5,Doctor explained well
+S622465,E005982,8,5,4,3,
+S324401,E006523,4,4,4,5,Nurse was helpful
+S429461,E006702,6,5,2,2,Doctor explained well
+S149235,E002657,1,3,1,4,
+S310115,E005200,0,3,3,2,Doctor explained well
+S857840,E005883,9,2,1,4,
+S501510,E003856,7,2,3,3,Facilities need improvement
+S779277,E001342,5,2,1,3,
+S637796,E007711,0,3,1,2,
+S737280,E003480,8,1,5,1,Doctor explained well
+S894695,E007536,1,2,2,5,Long wait time
+S837890,E002266,6,3,5,1,
+S605533,E005755,9,1,5,4,Doctor explained well
+S421984,E003708,8,5,4,4,Facilities need improvement
+S036783,E006048,4,3,3,1,Facilities need improvement
+S977990,E002941,2,2,3,4,Nurse was helpful
+S613136,E004923,4,3,3,5,Facilities need improvement
+S730335,E007668,8,5,1,5,Great care
+S235042,E007875,2,5,3,2,Doctor explained well
+S968374,E002881,3,4,1,3,Long wait time
+S070492,E003703,8,5,5,3,Great care
+S934313,E003741,8,4,2,3,Nurse was helpful
+S722374,E005462,0,3,2,4,Facilities need improvement
+S899441,E001072,6,1,2,5,
+S710514,E006988,4,3,4,5,Nurse was helpful
+S043541,E000409,9,2,1,2,Long wait time
+S533629,E004951,8,3,1,1,
+S712793,E004519,4,3,5,3,Doctor explained well
+S139035,E002392,9,5,5,4,Doctor explained well
+S957308,E006366,3,5,4,3,Doctor explained well
+S140014,E001725,5,5,5,1,Long wait time
+S946290,E007026,6,3,4,4,Nurse was helpful
+S713110,E000477,6,3,2,2,Nurse was helpful
+S535334,E004623,0,5,3,4,Great care
+S941561,E004530,2,2,3,5,
+S007832,E007550,1,2,4,4,Long wait time
+S678124,E001207,9,2,4,1,Nurse was helpful
+S763556,E007925,5,1,5,1,Great care
+S856082,E004963,6,4,1,1,Great care
+S361287,E004218,9,1,1,4,Great care
+S810689,E006425,4,1,5,4,Great care
+S354579,E005297,3,2,4,5,
+S312350,E004754,9,3,4,1,Long wait time
+S383678,E002485,7,1,5,4,
+S840465,E007892,7,2,5,2,Nurse was helpful
+S137378,E002325,8,1,2,2,Nurse was helpful
+S489419,E006018,8,1,2,5,Great care
+S045916,E005441,0,5,1,2,Facilities need improvement
+S222921,E005646,7,1,5,1,Nurse was helpful
+S095495,E002373,6,5,5,3,
+S043922,E006407,3,5,1,3,Doctor explained well
+S132767,E001424,6,5,3,4,
+S085739,E004487,2,3,3,5,Great care
+S168863,E004560,10,3,4,3,Doctor explained well
+S235726,E000142,1,3,1,5,Doctor explained well
+S221702,E001094,4,1,3,5,Long wait time
+S178186,E006649,6,4,2,5,Great care
+S463104,E007776,4,1,3,4,Facilities need improvement
+S899961,E002194,7,3,5,1,Great care
+S701109,E003637,3,2,2,3,Doctor explained well
+S390878,E001756,5,2,3,2,Nurse was helpful
+S350244,E004776,7,3,5,3,Nurse was helpful
+S299654,E001203,4,3,3,1,Doctor explained well
+S745346,E005815,3,5,5,4,Facilities need improvement
+S166275,E007899,7,3,5,4,Nurse was helpful
+S267204,E000948,0,3,3,5,Nurse was helpful
+S519749,E005637,4,4,3,3,Long wait time
+S455998,E001443,7,2,1,1,Doctor explained well
+S396622,E006528,1,3,1,4,Long wait time
+S608672,E007102,5,1,5,3,Nurse was helpful
+S345198,E003914,9,4,1,4,Great care
+S264074,E000802,5,5,3,1,Great care
+S674124,E001418,7,2,1,1,Long wait time
+S175370,E003319,3,5,2,4,Long wait time
+S808190,E006698,0,3,3,4,
+S691112,E007369,1,1,4,2,Facilities need improvement
+S419627,E001446,1,3,2,4,Great care
+S895582,E002664,7,2,3,1,
+S349722,E005466,5,5,3,5,Facilities need improvement
+S175125,E006500,10,5,3,2,Facilities need improvement
+S105017,E003454,3,2,3,2,Great care
+S264637,E001610,5,4,2,3,
+S615548,E003620,9,5,1,1,Long wait time
+S368468,E006979,0,1,1,2,
+S426734,E005923,4,2,2,1,Long wait time
+S331211,E001714,8,1,4,4,Great care
+S119085,E002084,5,4,3,2,Great care
+S039121,E007506,10,5,2,4,Nurse was helpful
+S725172,E002271,5,5,1,1,Doctor explained well
+S385447,E005487,3,1,3,4,Long wait time
+S452793,E002168,2,4,4,5,Long wait time
+S523639,E007256,3,4,1,1,
+S649858,E003290,1,5,4,4,Doctor explained well
+S794629,E005784,8,3,2,2,Long wait time
+S460926,E007658,5,5,3,4,Doctor explained well
+S475336,E006938,7,4,4,1,Nurse was helpful
+S469666,E000324,10,5,1,4,Long wait time
+S396090,E000439,1,2,1,1,
+S966749,E003176,1,3,4,3,
+S344732,E007449,5,1,4,3,Great care
+S520760,E006635,0,1,2,5,
+S272898,E006688,0,3,5,1,Long wait time
+S381294,E005583,5,5,2,3,Facilities need improvement
+S123703,E002886,9,5,4,3,Long wait time
+S716294,E006193,2,5,5,4,Facilities need improvement
+S713930,E007281,2,4,5,2,Great care
+S188063,E005421,6,4,1,3,Facilities need improvement
+S609062,E001386,10,3,5,2,Great care
+S923737,E005553,7,5,3,5,Long wait time
+S809345,E007056,0,4,4,3,
+S279533,E005504,8,2,1,1,Great care
+S818466,E005552,4,2,1,4,Great care
+S579529,E003717,6,3,1,5,Facilities need improvement
+S424411,E002648,7,3,1,1,Facilities need improvement
+S348857,E000064,10,3,3,3,Facilities need improvement
+S520898,E004545,5,3,1,1,Great care
+S356326,E001469,3,5,2,1,Doctor explained well
+S305696,E007028,0,4,3,4,Nurse was helpful
+S600877,E004137,7,4,3,5,Long wait time
+S488240,E005926,10,2,5,4,Long wait time
+S120112,E000491,5,2,5,4,Long wait time
+S285501,E007632,5,5,4,5,Doctor explained well
+S715271,E001869,1,3,3,1,Doctor explained well
+S221638,E001764,4,5,1,1,Great care
+S897452,E003228,10,2,2,5,Great care
+S326590,E001507,5,3,1,2,Great care
+S279431,E006432,5,2,5,3,Nurse was helpful
+S361852,E006304,7,4,5,3,Facilities need improvement
+S196951,E006404,10,4,2,4,Great care
+S873085,E002918,4,3,1,5,Doctor explained well
+S357195,E003203,2,4,3,2,Nurse was helpful
+S440998,E005790,9,3,1,1,Doctor explained well
+S819772,E001444,0,2,4,4,
+S084274,E002467,6,2,4,3,Long wait time
+S796748,E000958,1,1,2,1,
+S127657,E007431,5,1,2,2,Great care
+S094392,E002520,10,1,4,5,Great care
+S850499,E006263,2,2,4,2,Long wait time
+S962118,E006852,5,3,2,4,Facilities need improvement
+S999697,E000531,4,5,4,5,Nurse was helpful
+S245291,E001445,8,4,1,1,Doctor explained well
+S202296,E007667,5,4,4,5,
+S209985,E005939,8,2,1,1,Great care
+S854986,E003567,1,1,2,1,Nurse was helpful
+S960689,E006851,5,5,5,1,
+S664870,E003875,0,3,4,3,Long wait time
+S350896,E004774,1,4,4,3,Nurse was helpful
+S250944,E001594,4,2,1,3,Facilities need improvement
+S007339,E005455,4,1,5,5,Facilities need improvement
+S592417,E004708,1,5,5,3,Doctor explained well
+S163987,E007808,4,4,3,4,Doctor explained well
+S983771,E005975,2,3,3,1,Facilities need improvement
+S145849,E002287,1,2,2,1,Doctor explained well
+S731156,E005279,9,5,3,4,
+S149516,E002343,5,4,5,1,Nurse was helpful
+S649501,E005957,8,4,1,1,Nurse was helpful
+S620451,E003144,6,1,4,5,Doctor explained well
+S465891,E006218,1,3,3,2,Doctor explained well
+S608153,E005973,7,1,5,1,Great care
+S216365,E004635,3,1,4,3,Facilities need improvement
+S734845,E002125,9,2,3,5,Doctor explained well
+S862412,E004933,9,5,1,1,Great care
+S906956,E005317,6,5,3,1,Facilities need improvement
+S723589,E003368,9,1,3,3,Doctor explained well
+S799270,E004668,7,3,1,1,
+S834663,E001406,0,1,2,1,
+S019305,E006669,3,4,1,4,
+S629567,E001969,1,4,1,5,Doctor explained well
+S682019,E000804,2,5,1,2,Nurse was helpful
+S815527,E000877,6,4,3,2,Long wait time
+S701629,E002116,6,3,5,4,
+S740205,E002270,9,2,2,2,Doctor explained well
+S574514,E004276,2,4,1,5,Facilities need improvement
+S553595,E005074,8,3,3,1,Nurse was helpful
+S355736,E003757,8,1,2,2,Doctor explained well
+S433529,E006505,2,1,3,4,Long wait time
+S482235,E007731,3,5,3,3,Great care
+S469661,E007861,8,4,1,2,Doctor explained well
+S134043,E001719,8,4,2,4,Facilities need improvement
+S121176,E006194,1,5,3,4,Nurse was helpful
+S890858,E002349,8,5,1,4,Nurse was helpful
+S610881,E002943,9,4,4,5,Great care
+S463736,E005928,0,2,5,1,Long wait time
+S427144,E005325,0,3,2,2,Nurse was helpful
+S689168,E001440,4,4,1,5,Doctor explained well
+S409196,E002769,10,3,1,2,Great care
+S502219,E002703,4,1,5,2,Long wait time
+S978312,E000392,8,4,2,2,Nurse was helpful
+S122388,E001040,2,1,2,1,
+S268271,E005228,2,1,3,5,Nurse was helpful
+S970537,E005526,9,4,2,4,Long wait time
+S556246,E006324,7,2,2,4,Nurse was helpful
+S292958,E003681,1,1,4,5,Nurse was helpful
+S001013,E001063,7,3,4,5,Great care
+S733431,E007664,0,1,2,2,
+S841156,E004231,0,3,2,4,
+S309216,E005218,8,3,4,4,Great care
+S132292,E003026,10,4,1,4,Great care
+S278192,E001477,7,2,3,3,Facilities need improvement
+S424599,E007442,3,1,4,5,
+S400302,E002339,1,1,2,2,Doctor explained well
+S746956,E006080,9,2,5,4,Long wait time
+S693976,E001463,7,1,4,3,Facilities need improvement
+S559267,E006841,2,4,2,1,Doctor explained well
+S724205,E003348,4,2,1,4,Nurse was helpful
+S148355,E003722,1,1,2,4,Nurse was helpful
+S454494,E003608,2,5,5,5,Facilities need improvement
+S342788,E002674,1,5,2,1,Long wait time
+S820582,E007186,5,5,5,3,Nurse was helpful
+S278796,E006105,4,3,2,2,Great care
+S511549,E002823,10,1,1,2,Great care
+S558174,E003485,1,4,2,3,Facilities need improvement
+S494659,E002649,0,2,5,2,
+S993770,E001455,4,4,3,3,Doctor explained well
+S542715,E006872,7,3,1,4,Nurse was helpful
+S902916,E006326,0,3,3,4,Facilities need improvement
+S591304,E000230,8,1,4,1,
+S066195,E001498,1,2,2,2,Doctor explained well
+S334450,E002982,1,5,4,5,Facilities need improvement
+S157583,E007475,10,2,2,2,Nurse was helpful
+S459018,E002797,6,1,5,3,Nurse was helpful
+S355647,E000861,5,1,5,3,Nurse was helpful
+S165983,E005809,4,4,4,5,
+S818327,E007208,10,1,4,5,Doctor explained well
+S672605,E000264,10,1,1,2,Doctor explained well
+S988869,E001473,0,1,1,3,Long wait time
+S097119,E006913,8,1,2,4,Great care
+S218507,E002556,1,4,5,3,Great care
+S301440,E002974,1,4,2,4,Nurse was helpful
+S871202,E004272,3,3,5,4,
+S191313,E005551,2,5,3,4,Facilities need improvement
+S734548,E004512,2,1,4,3,Nurse was helpful
+S264140,E005745,9,5,3,4,
+S165812,E001629,8,1,4,2,Facilities need improvement
+S209945,E007825,10,2,3,4,Doctor explained well
+S470328,E003936,6,5,2,4,
+S273727,E007178,5,4,5,5,Facilities need improvement
+S764787,E000859,0,5,1,3,Great care
+S176846,E002839,6,5,1,4,
+S850013,E001153,5,2,1,4,
+S735880,E004948,2,1,5,1,Great care
+S746258,E000838,0,4,4,2,Long wait time
+S581113,E005005,8,3,1,3,Facilities need improvement
+S378507,E003721,9,3,4,1,Long wait time
+S395559,E000782,3,3,5,3,Long wait time
+S279328,E005329,2,3,4,5,Great care
+S171991,E004781,7,1,4,3,
+S475204,E000002,1,4,1,4,Doctor explained well
+S356205,E006677,10,4,5,4,Long wait time
+S061346,E000904,6,5,3,2,Great care
+S088492,E001109,9,4,3,5,Facilities need improvement
+S350540,E001780,6,2,3,2,Great care
+S700012,E003064,1,2,3,3,Great care
+S859271,E007275,8,1,5,5,
+S476843,E006355,7,3,2,2,Facilities need improvement
+S474336,E002783,5,2,2,2,Facilities need improvement
+S607191,E003245,8,2,2,3,
+S774888,E007558,6,5,1,3,Nurse was helpful
+S734224,E004194,6,5,4,4,Great care
+S691628,E004301,9,2,3,5,Long wait time
+S061374,E001850,4,2,2,2,
+S141510,E005071,5,5,3,1,Great care
+S466661,E001403,5,1,5,5,Doctor explained well
+S866649,E001832,6,2,5,1,Facilities need improvement
+S715271,E007816,3,4,1,2,
+S270261,E000371,6,2,4,1,Long wait time
+S717326,E006618,9,2,4,2,Doctor explained well
+S373742,E002844,5,2,5,4,
+S902676,E003021,6,1,3,2,Nurse was helpful
+S320361,E006417,2,4,2,4,Long wait time
+S205872,E002235,3,5,5,1,Nurse was helpful
+S587908,E007958,8,5,5,1,Great care
+S762371,E007394,5,2,5,5,Facilities need improvement
+S309871,E003496,5,1,5,2,Facilities need improvement
+S172161,E005186,2,4,2,1,Facilities need improvement
+S652907,E005867,3,3,3,5,
+S127161,E002811,8,5,3,4,Great care
+S764113,E005726,2,2,5,5,Long wait time
+S509425,E001959,0,2,1,5,Nurse was helpful
+S408491,E003087,7,1,1,2,Doctor explained well
+S142328,E001624,3,4,3,4,Nurse was helpful
+S777714,E000628,6,4,4,3,Doctor explained well
+S444850,E003786,6,4,4,2,
+S919259,E004342,9,3,5,4,
+S488830,E003795,3,1,2,1,Doctor explained well
+S771969,E001932,0,3,2,2,Facilities need improvement
+S770674,E001448,5,2,2,2,Great care
+S610143,E007904,4,3,1,2,Great care
+S889462,E007796,0,3,2,3,Doctor explained well
+S203073,E007399,3,5,1,2,Doctor explained well
+S248140,E001936,1,1,2,2,Long wait time
+S320208,E001449,6,4,3,1,Facilities need improvement
+S425585,E002259,9,3,4,2,
+S765448,E004712,2,2,3,2,Long wait time
+S313681,E007315,1,4,3,1,
+S289360,E005620,0,4,3,3,
+S166220,E001806,1,4,1,2,Doctor explained well
+S298980,E000432,6,4,1,5,Facilities need improvement
+S414605,E001054,1,5,4,4,Nurse was helpful
+S492312,E007235,6,5,3,2,Doctor explained well
+S675954,E001523,2,5,2,1,Nurse was helpful
+S183062,E000625,9,2,1,2,Nurse was helpful
+S385550,E007725,8,1,3,1,Facilities need improvement
+S133223,E005170,7,5,5,3,Long wait time
+S856252,E004575,3,4,2,5,Great care
+S550096,E002229,6,3,3,3,Nurse was helpful
+S251865,E005522,4,2,4,5,Long wait time
+S462807,E000689,4,3,4,5,Facilities need improvement
+S419699,E006075,7,1,4,1,Long wait time
+S106211,E002073,4,2,3,1,Doctor explained well
+S180920,E000608,7,5,5,5,Great care
+S090691,E001439,6,4,4,4,Great care
+S948570,E004182,7,4,4,2,
+S973817,E000846,4,1,5,1,Great care
+S155324,E000084,4,5,4,1,Doctor explained well
+S826430,E003851,0,5,1,4,Long wait time
+S113106,E006249,3,2,5,3,
+S913532,E003522,6,5,3,4,Facilities need improvement
+S798753,E003837,8,3,1,5,Long wait time
+S161492,E006190,3,4,2,1,Long wait time
+S913675,E007923,10,2,2,2,Great care
+S782848,E000793,0,5,4,4,Great care
+S158378,E002617,10,5,1,3,Nurse was helpful
+S198559,E002124,3,1,2,1,Facilities need improvement
+S454477,E003463,4,3,2,4,Facilities need improvement
+S907299,E005640,0,2,5,1,Nurse was helpful
+S740117,E001841,3,2,3,4,Facilities need improvement
+S919517,E004723,1,2,4,3,Facilities need improvement
+S871664,E000996,0,3,2,1,Doctor explained well
+S511729,E000347,3,4,3,4,Doctor explained well
+S078491,E001660,2,3,4,4,Nurse was helpful
+S067738,E006689,9,2,1,5,Long wait time
+S215086,E001242,10,3,1,5,Great care
+S084089,E003831,7,5,1,5,Facilities need improvement
+S767302,E002111,1,5,3,2,Nurse was helpful
+S529137,E004240,4,5,3,1,Facilities need improvement
+S884084,E001509,3,2,4,1,
+S489979,E007742,9,1,3,2,Doctor explained well
+S523670,E004797,6,3,4,1,Great care
+S651327,E000546,6,5,2,1,Long wait time
+S212588,E005791,3,1,2,4,Great care
+S809197,E000258,4,4,5,3,Great care
+S458010,E000068,5,3,2,4,Great care
+S240029,E000060,7,2,3,2,Facilities need improvement
+S361967,E007626,2,4,1,5,Nurse was helpful
+S767802,E001190,1,4,2,2,Doctor explained well
+S896860,E005223,0,3,1,2,Long wait time
+S509835,E003533,9,4,4,1,
+S465292,E007119,8,5,2,5,Nurse was helpful
+S161345,E004498,3,4,2,4,Facilities need improvement
+S813242,E007807,5,1,2,4,Nurse was helpful
+S271439,E000732,6,2,1,1,Doctor explained well
+S403941,E006776,8,2,4,4,Doctor explained well
+S029141,E004053,8,5,1,2,
+S166112,E005364,6,4,4,5,Doctor explained well
+S020652,E001281,0,5,4,4,Nurse was helpful
+S748291,E002475,8,3,1,3,
+S999072,E006796,8,5,1,5,Long wait time
+S933761,E007591,9,1,5,2,Nurse was helpful
+S835724,E005984,3,4,2,4,
+S486286,E002917,3,3,4,4,Long wait time
+S073038,E002872,10,1,1,4,Long wait time
+S815698,E006926,5,5,4,1,Great care
+S492487,E004578,5,5,2,5,Doctor explained well
+S879866,E004468,1,5,5,3,Facilities need improvement
+S296838,E001672,1,1,3,1,Facilities need improvement
+S550156,E004702,9,1,4,2,Facilities need improvement
+S284806,E002647,9,3,3,5,Nurse was helpful
+S489100,E001093,5,2,1,3,Nurse was helpful
+S857500,E006469,5,4,2,3,Nurse was helpful
+S136096,E003193,9,3,3,2,Nurse was helpful
+S194585,E005980,8,1,2,3,Great care
+S220240,E002899,0,4,4,2,Great care
+S633342,E001559,2,1,1,3,
+S134461,E004697,2,2,5,4,
+S888064,E000314,3,4,2,4,
+S715134,E007746,10,4,3,4,Great care
+S953517,E006213,5,3,4,3,Facilities need improvement
+S911512,E002024,8,1,5,4,Facilities need improvement
+S483243,E006118,10,2,2,2,Great care
+S088613,E003495,0,4,1,2,
+S058577,E007797,8,4,2,1,Doctor explained well
+S263793,E006545,1,1,4,1,Great care
+S522866,E007476,4,3,3,2,Doctor explained well
+S219485,E004891,2,2,5,4,Great care
+S959631,E003299,0,2,3,4,Nurse was helpful
+S757375,E001012,5,4,4,3,Doctor explained well
+S644996,E007896,2,1,4,4,
+S157918,E001045,5,3,4,3,Facilities need improvement
+S774172,E007902,6,4,3,3,Doctor explained well
+S690555,E001213,8,1,2,3,Facilities need improvement
+S373037,E003770,7,4,4,1,Nurse was helpful
+S221420,E002296,6,2,4,3,Facilities need improvement
+S156148,E002329,5,2,4,2,Facilities need improvement
+S504260,E007829,9,5,2,3,Nurse was helpful
+S645470,E000458,9,2,4,2,
+S649417,E003506,9,4,5,2,Great care
+S771967,E000569,5,5,4,4,Doctor explained well
+S222473,E003910,2,4,2,3,Great care
+S155153,E000123,1,4,5,5,Doctor explained well
+S465407,E000249,3,2,5,1,Long wait time
+S918768,E003377,8,3,1,1,Facilities need improvement
+S772587,E007503,4,1,1,2,
+S535079,E002707,5,4,2,4,Doctor explained well
+S218995,E003054,6,5,1,1,Doctor explained well
+S137362,E002461,8,4,5,1,Long wait time
+S369377,E000502,6,5,5,1,Great care
+S963377,E000072,1,4,2,2,Great care
+S438226,E007546,1,5,2,5,Doctor explained well
+S424247,E003338,9,4,4,2,Long wait time
+S084669,E006552,8,4,5,2,Long wait time
+S587950,E000407,1,4,4,5,Nurse was helpful
+S733664,E000501,9,2,1,5,
+S910206,E006868,6,1,5,4,Long wait time
+S255075,E007060,8,3,2,3,Facilities need improvement
+S471776,E006037,5,3,4,3,Long wait time
+S149532,E000923,3,3,1,2,Facilities need improvement
+S412479,E006768,10,1,4,1,
+S882038,E002052,4,4,4,4,Great care
+S907611,E005137,3,2,4,5,Great care
+S531429,E004370,1,1,5,2,Great care
+S142685,E007538,5,2,2,3,Nurse was helpful
+S829156,E002086,10,3,4,4,Facilities need improvement
+S083236,E007415,5,2,5,1,Doctor explained well
+S073095,E000282,6,5,2,3,Long wait time
+S293634,E004392,7,2,5,4,Long wait time
+S093745,E006331,7,3,4,5,Great care
+S023434,E007931,1,4,5,3,Great care
+S248745,E002508,5,5,4,2,Doctor explained well
+S322859,E005481,8,5,4,5,Nurse was helpful
+S925932,E004047,0,4,5,5,Nurse was helpful
+S216993,E002725,10,2,1,5,
+S413424,E004410,1,2,2,2,Nurse was helpful
+S734603,E006168,3,2,5,4,Long wait time
+S631936,E000418,10,2,2,4,Long wait time
+S939566,E003344,2,1,5,1,Facilities need improvement
+S026684,E006381,7,3,4,1,Nurse was helpful
+S561685,E000779,10,1,4,1,Facilities need improvement
+S611073,E004150,7,3,4,4,Doctor explained well
+S660844,E003293,8,4,2,1,Great care
+S137471,E000038,8,4,5,1,Long wait time
+S561042,E006112,9,1,2,3,Facilities need improvement
+S076131,E007177,8,3,1,5,
+S010762,E004058,2,3,4,5,Doctor explained well
+S547152,E004126,3,1,2,1,Nurse was helpful
+S931434,E004775,0,4,1,1,Great care
+S473720,E005972,1,3,5,5,Great care
+S916626,E001146,4,4,3,4,
+S490738,E000825,0,3,3,2,Doctor explained well
+S401340,E006719,8,4,1,4,Doctor explained well
+S745432,E005366,4,1,3,5,
+S411301,E006639,3,1,5,4,Great care
+S973098,E007686,6,5,5,4,
+S802112,E006141,8,5,1,1,Facilities need improvement
+S154714,E004232,10,2,1,2,Nurse was helpful
+S556610,E004278,7,2,2,2,Facilities need improvement
+S029982,E006895,8,2,5,1,
+S091919,E002936,1,4,2,4,Long wait time
+S622141,E006368,6,2,5,5,Doctor explained well
+S818807,E000433,9,2,3,3,
+S035858,E005938,0,4,3,1,Doctor explained well
+S011536,E000527,6,3,1,5,Great care
+S258938,E001165,2,1,2,5,Facilities need improvement
+S153439,E006894,4,3,4,3,Great care
+S999628,E001776,9,2,3,5,Facilities need improvement
+S207050,E007677,4,3,1,1,Doctor explained well
+S843047,E002096,6,5,4,2,
+S750430,E001124,8,5,3,4,Nurse was helpful
+S014175,E007919,6,3,4,1,
+S671524,E004641,0,5,3,1,Nurse was helpful
+S280928,E000289,0,5,5,1,Doctor explained well
+S530451,E000765,9,2,1,4,Long wait time
+S234417,E007759,7,4,3,4,Nurse was helpful
+S771898,E005229,3,2,2,3,
+S553580,E002294,5,5,5,4,Long wait time
+S960682,E000873,0,5,3,3,Nurse was helpful
+S135128,E005600,10,5,2,4,Doctor explained well
+S810604,E001758,4,1,4,2,Facilities need improvement
+S269277,E001465,10,3,5,5,
+S562027,E000400,10,2,4,5,Great care
+S253961,E002316,10,3,4,4,
+S883368,E001031,8,4,3,5,Long wait time
+S827079,E000555,9,5,5,3,Doctor explained well
+S434711,E001460,4,2,1,1,Long wait time
+S424450,E004511,4,5,3,4,Long wait time
+S394442,E003911,2,5,1,2,
+S350839,E000516,3,5,4,2,Long wait time
+S274121,E006993,0,3,2,4,Nurse was helpful
+S332811,E002376,1,5,1,5,Doctor explained well
+S682493,E000812,0,2,3,3,Long wait time
+S410352,E006790,4,5,1,1,Doctor explained well
+S898910,E000787,8,1,5,4,Great care
+S405302,E002170,5,1,1,2,Facilities need improvement
+S069432,E006858,9,1,5,3,Long wait time
+S037837,E000354,2,5,1,5,Long wait time
+S274906,E000062,2,1,2,1,Great care
+S134956,E000044,9,3,5,1,
+S531541,E004692,1,5,3,2,Great care
+S679333,E002521,3,3,2,3,Doctor explained well
+S597965,E006653,8,5,3,4,Doctor explained well
+S785352,E007136,3,4,2,4,Nurse was helpful
+S216864,E004640,10,3,5,5,Facilities need improvement
+S608445,E001428,5,1,1,2,Great care
+S858442,E007142,8,5,5,5,Nurse was helpful
+S876109,E003761,2,3,4,2,Nurse was helpful
+S339312,E005875,8,4,2,5,Facilities need improvement
+S738993,E003048,4,2,2,2,Long wait time
+S398072,E006188,6,4,3,2,Facilities need improvement
+S144973,E000580,5,5,1,2,Facilities need improvement
+S821880,E001000,2,5,5,2,Nurse was helpful
+S004611,E007575,10,1,2,4,Doctor explained well
+S160674,E005948,7,4,3,4,Great care
+S566428,E003324,2,3,2,4,Doctor explained well
+S796749,E001967,9,4,3,1,Long wait time
+S317180,E007616,8,4,1,5,
+S505437,E004789,9,3,3,3,
+S443945,E005159,4,1,4,5,Long wait time
+S751868,E001238,0,4,1,1,Facilities need improvement
+S535630,E002267,8,2,4,5,Facilities need improvement
+S036690,E005447,9,5,2,3,
+S229606,E000893,2,4,3,5,Long wait time
+S509770,E001702,8,1,4,1,Great care
+S679200,E003038,7,3,2,2,Facilities need improvement
+S377594,E004302,8,3,1,2,Doctor explained well
+S370847,E001478,9,1,4,1,Facilities need improvement
+S071169,E003968,1,1,4,4,Doctor explained well
+S396799,E003834,9,1,2,5,Great care
+S564182,E003472,6,5,3,2,Facilities need improvement
+S677191,E006638,10,3,3,5,Doctor explained well
+S894715,E005311,2,1,4,4,Long wait time
+S941221,E001931,10,3,2,1,Nurse was helpful
+S813303,E005306,8,3,2,1,Long wait time
+S323880,E000517,2,4,3,2,Facilities need improvement
+S417035,E005148,4,3,1,4,
+S188126,E004638,7,2,1,5,Doctor explained well
+S672971,E006826,0,2,2,1,
+S225776,E007299,4,2,2,2,Long wait time
+S013279,E000833,6,4,2,4,
+S903928,E003511,6,1,4,3,Facilities need improvement
+S937620,E003325,6,1,4,5,Long wait time
+S275821,E001521,0,2,2,2,Great care
+S295978,E004814,2,2,1,1,Great care
+S007145,E002450,9,1,4,4,Long wait time
+S492489,E000406,3,4,3,2,Facilities need improvement
+S292647,E007018,7,4,4,1,Great care
+S366917,E006467,0,5,4,3,Nurse was helpful
+S353452,E004821,2,4,2,1,
+S345681,E007493,3,1,2,4,Facilities need improvement
+S026549,E001897,3,5,5,4,Doctor explained well
+S934609,E004179,0,4,3,4,Facilities need improvement
+S603794,E006008,3,2,1,4,Nurse was helpful
+S011489,E003089,8,2,2,4,Doctor explained well
+S825609,E007082,8,4,1,3,Nurse was helpful
+S977837,E004626,8,2,2,5,Great care
+S974454,E006967,10,5,5,5,Nurse was helpful
+S218096,E001136,1,4,5,5,
+S324464,E005449,8,2,2,1,Doctor explained well
+S166410,E002226,10,3,4,4,Long wait time
+S633424,E003122,10,1,4,1,Great care
+S817652,E007016,8,1,5,5,Doctor explained well
+S316229,E005470,5,1,4,2,
+S145009,E003889,10,1,1,1,Nurse was helpful
+S198731,E000212,6,3,2,4,Long wait time
+S949528,E006093,2,4,4,4,Nurse was helpful
+S940805,E003759,6,2,4,5,Great care
+S810685,E005024,8,4,4,1,
+S151547,E006757,1,3,3,5,Facilities need improvement
+S257355,E005601,6,1,3,3,
+S981185,E000720,6,4,3,1,
+S511396,E005162,6,1,5,5,Great care
+S155559,E004034,5,5,4,5,Facilities need improvement
+S287099,E000616,9,2,2,1,Nurse was helpful
+S864221,E001344,0,3,1,1,Nurse was helpful
+S195977,E006625,5,4,5,5,Great care
+S764632,E005648,9,1,2,1,Facilities need improvement
+S561964,E007099,2,1,5,5,Nurse was helpful
+S585189,E004660,6,2,2,1,Nurse was helpful
+S759873,E006932,7,1,3,5,Doctor explained well
+S724801,E005539,1,5,4,3,Facilities need improvement
+S130732,E002364,10,4,5,1,Doctor explained well
+S124872,E007423,10,1,4,1,Long wait time
+S417236,E002004,2,5,5,3,Nurse was helpful
+S956088,E000801,4,1,1,4,Doctor explained well
+S348545,E001815,5,2,1,2,Nurse was helpful
+S749998,E004836,9,3,2,4,
+S331300,E005994,2,2,1,4,
+S062154,E004209,0,4,5,5,
+S382276,E001711,7,5,1,4,
+S571408,E004539,5,1,5,3,Great care
+S712897,E004448,10,2,2,5,Facilities need improvement
+S893181,E002842,2,2,3,1,Great care
+S337774,E004889,0,5,2,2,
+S222772,E007354,4,3,2,2,Long wait time
+S240681,E003881,1,5,1,5,Nurse was helpful
+S783331,E003232,6,5,2,2,Nurse was helpful
+S005595,E004875,4,3,2,1,Doctor explained well
+S910641,E003424,4,1,1,2,
+S113414,E006542,6,3,5,4,
+S526085,E000058,7,4,4,3,
+S747638,E000176,9,3,1,3,Facilities need improvement
+S747542,E005963,4,1,4,2,Nurse was helpful
+S570604,E003689,3,4,3,1,Facilities need improvement
+S394448,E006276,9,4,2,1,Facilities need improvement
+S113958,E007901,1,3,3,4,Facilities need improvement
+S783050,E005531,8,5,3,2,Doctor explained well
+S184928,E007140,8,1,3,1,Long wait time
+S003288,E005064,7,4,4,2,Great care
+S974723,E002542,8,3,1,3,
+S113522,E002425,0,4,5,1,Great care
+S832122,E004354,5,2,5,3,Doctor explained well
+S441895,E003425,5,1,5,5,Nurse was helpful
+S279461,E000969,6,5,5,1,Facilities need improvement
+S608630,E007355,6,2,1,5,Nurse was helpful
+S072109,E007582,3,5,1,4,
+S153856,E002979,8,2,1,2,
+S124762,E000582,8,1,3,4,Long wait time
+S902801,E007568,5,1,4,4,Nurse was helpful
+S348410,E007695,0,3,4,3,Nurse was helpful
+S814354,E005240,2,4,3,1,Doctor explained well
+S135246,E006177,7,2,5,5,Great care
+S307660,E007812,9,1,5,1,Doctor explained well
+S580722,E003690,3,4,5,2,Long wait time
+S338911,E001540,2,3,4,5,Facilities need improvement
+S249527,E001707,6,3,4,5,Nurse was helpful
+S327049,E001690,5,4,2,3,Facilities need improvement
+S497418,E001412,8,4,5,5,Long wait time
+S067180,E000278,8,1,2,2,Doctor explained well
+S419892,E004400,9,1,2,1,Nurse was helpful
+S708270,E007029,0,1,1,3,Great care
+S184903,E005102,8,2,4,2,
+S118170,E003775,5,1,2,1,Nurse was helpful
+S338078,E001716,6,1,1,5,Long wait time
+S832547,E006519,4,5,1,1,Long wait time
+S212342,E007681,9,2,4,5,Facilities need improvement
+S683958,E002165,4,5,3,5,Long wait time
+S519091,E005207,8,5,2,2,Doctor explained well
+S456585,E004777,6,3,5,3,Facilities need improvement
+S921607,E002775,1,5,2,1,
+S584992,E007073,8,5,2,2,Doctor explained well
+S809676,E002561,7,1,1,1,Great care
+S708810,E005012,8,4,2,4,Great care
+S683203,E002062,9,3,1,4,Facilities need improvement
+S660968,E005967,2,5,3,3,Long wait time
+S273135,E001706,4,5,4,4,Long wait time
+S467708,E000965,9,1,1,1,Nurse was helpful
+S656818,E002141,4,2,1,1,Long wait time
+S019105,E006842,1,4,1,2,Doctor explained well
+S507172,E003730,5,5,5,4,Nurse was helpful
+S149241,E003224,6,3,5,5,Long wait time
+S709461,E005294,6,2,4,2,
+S610006,E001741,8,1,2,3,Nurse was helpful
+S622345,E000864,3,2,3,1,Nurse was helpful
+S614535,E007086,9,2,1,2,Long wait time
+S165955,E007426,2,3,1,5,Doctor explained well
+S221109,E002565,9,3,5,3,Doctor explained well
+S662064,E000158,1,1,1,2,
+S032113,E006421,3,1,2,5,
+S474772,E007997,0,4,2,1,Great care
+S284961,E000691,8,4,2,2,Facilities need improvement
+S358031,E006744,8,2,4,1,Doctor explained well
+S327014,E002350,0,2,1,2,Great care
+S793083,E001132,1,4,2,4,Great care
+S627382,E002091,9,3,1,1,Doctor explained well
+S112272,E007303,1,3,3,3,Nurse was helpful
+S289914,E007831,4,4,1,3,Doctor explained well
+S697005,E000686,1,3,1,4,Nurse was helpful
+S445864,E006158,8,2,4,2,Nurse was helpful
+S201635,E002991,2,5,4,1,Nurse was helpful
+S634351,E006648,8,5,1,4,
+S995441,E007497,0,1,1,2,Great care
+S390655,E006308,1,4,5,2,Great care
+S216519,E001906,8,2,3,4,Nurse was helpful
+S000401,E007802,3,2,5,2,
+S512982,E001084,0,2,1,3,Facilities need improvement
+S482772,E003563,8,2,2,2,Long wait time
+S358041,E004254,3,5,2,2,Long wait time
+S296630,E001121,4,2,3,5,Facilities need improvement
+S330976,E002717,0,5,3,5,Great care
+S497449,E005598,6,1,3,2,Nurse was helpful
+S226713,E007750,4,5,5,3,Doctor explained well
+S071327,E002689,9,4,4,3,Doctor explained well
+S086260,E000111,7,4,4,5,
+S264265,E007061,6,3,1,1,Nurse was helpful
+S266612,E004263,0,2,2,1,Great care
+S229283,E000719,5,4,3,3,Great care
+S096148,E007218,1,4,2,5,Great care
+S023464,E003564,7,1,1,4,
+S024375,E007700,0,2,3,4,Nurse was helpful
+S248298,E003663,2,4,5,1,Facilities need improvement
+S261336,E006631,1,5,4,5,Long wait time
+S455987,E000609,5,2,4,4,Long wait time
+S902849,E001029,10,2,4,5,
+S394551,E006709,3,4,2,4,Doctor explained well
+S703877,E005286,5,5,4,4,Facilities need improvement
+S108088,E002573,7,5,1,3,Great care
+S031888,E003105,4,4,3,5,Long wait time
+S734114,E002230,1,4,4,2,Great care
+S596951,E005283,7,2,2,2,
+S855762,E007973,1,4,5,3,
+S385766,E006666,3,4,3,3,Great care
+S879826,E004295,7,3,5,1,
+S742734,E001464,2,1,5,5,Great care
+S863465,E005002,6,2,3,4,Long wait time
+S559674,E002101,4,1,1,2,Great care
+S755627,E001022,3,2,5,5,Nurse was helpful
+S308536,E005203,5,2,3,3,Long wait time
+S119977,E003853,4,5,2,5,Long wait time
+S382360,E006953,6,4,1,5,Great care
+S034152,E003979,6,4,1,4,Long wait time
+S239344,E004437,4,4,2,5,Great care
+S756052,E007643,8,5,1,4,Great care
+S240159,E006280,7,2,2,4,Great care
+S831213,E005339,2,1,4,4,Great care
+S965088,E005197,7,3,5,3,
+S870869,E006492,9,5,3,1,Facilities need improvement
+S219053,E003126,7,1,1,1,Great care
+S148332,E001963,8,5,5,2,Great care
+S124500,E004025,9,4,5,3,Nurse was helpful
+S550086,E006900,3,1,1,3,
+S365967,E005585,0,1,4,2,
+S254543,E007767,4,2,1,2,Doctor explained well
+S988517,E006358,7,3,1,4,Facilities need improvement
+S878009,E007481,4,4,1,4,Doctor explained well
+S091373,E001493,1,2,4,1,Nurse was helpful
+S407565,E003829,0,2,2,5,
+S456784,E006998,3,4,3,2,Facilities need improvement
+S086501,E000687,10,5,3,2,
+S347081,E005886,1,4,1,3,Facilities need improvement
+S362228,E006320,3,3,4,5,Facilities need improvement
+S810497,E005187,4,5,5,2,Facilities need improvement
+S853453,E001046,10,5,1,3,Nurse was helpful
+S961784,E002502,3,1,4,3,Great care
+S821214,E005914,2,3,4,4,Great care
+S769011,E002739,3,2,2,3,Nurse was helpful
+S649142,E004832,7,4,3,1,Great care
+S922627,E004408,4,1,2,5,Nurse was helpful
+S187427,E006109,4,1,3,3,Great care
+S582689,E006103,0,5,3,5,Facilities need improvement
+S759944,E004100,6,5,2,4,Nurse was helpful
+S219749,E000114,4,1,5,2,Nurse was helpful
+S042151,E005768,4,2,5,2,Great care
+S084749,E006135,1,3,4,1,
+S510197,E006451,9,1,1,1,Facilities need improvement
+S701630,E002403,8,2,3,5,Nurse was helpful
+S399216,E006129,6,3,5,2,Facilities need improvement
+S681354,E007259,5,4,5,3,Nurse was helpful
+S183168,E006415,3,4,5,5,Great care
+S564560,E004444,5,4,5,1,Nurse was helpful
+S067076,E007379,4,2,3,4,Great care
+S101412,E001400,10,2,1,4,Long wait time
+S112813,E006784,0,4,1,3,Nurse was helpful
+S913996,E005373,3,5,1,3,
+S517905,E003705,4,5,1,5,Doctor explained well
+S588253,E001253,3,5,2,3,Doctor explained well
+S429139,E006590,1,1,2,2,Facilities need improvement
+S766762,E003233,1,1,4,4,Doctor explained well
+S019664,E004153,2,4,3,3,Great care
+S868833,E004333,6,1,5,4,Long wait time
+S561338,E003149,2,2,5,1,Nurse was helpful
+S691943,E002729,10,5,4,3,Doctor explained well
+S430770,E007757,3,2,3,1,Long wait time
+S731379,E004881,2,1,3,3,Long wait time
+S807866,E006329,2,3,3,1,
+S081570,E003537,4,4,5,1,Nurse was helpful
+S691642,E006561,9,5,5,3,Facilities need improvement
+S650307,E002454,8,1,4,1,Great care
+S690113,E007373,10,2,1,2,
+S699895,E004736,1,3,3,2,Facilities need improvement
+S562478,E000699,2,2,2,4,Facilities need improvement
+S578575,E005716,7,5,3,4,Facilities need improvement
+S430347,E005022,2,4,3,4,Nurse was helpful
+S057016,E004258,3,5,2,2,Doctor explained well
+S236939,E004127,1,1,4,5,Doctor explained well
+S743927,E003456,8,2,2,1,Great care
+S874675,E000799,4,5,3,2,Long wait time
+S318090,E005048,7,3,1,1,Nurse was helpful
+S345583,E000222,6,1,4,4,Doctor explained well
+S478278,E004715,10,3,4,2,Doctor explained well
+S176664,E001070,0,5,5,1,Nurse was helpful
+S953959,E002627,9,5,2,5,Long wait time
+S364026,E002384,6,5,4,5,Great care
+S864293,E001648,1,4,2,3,Facilities need improvement
+S242300,E000534,5,4,2,4,
+S756269,E000153,0,3,4,1,Nurse was helpful
+S533901,E002880,4,4,1,4,Great care
+S368214,E003120,2,2,2,4,Nurse was helpful
+S559645,E005737,5,2,4,1,Facilities need improvement
+S262063,E002038,4,2,5,2,Great care
+S296626,E006050,4,2,3,5,Doctor explained well
+S342054,E000079,2,3,2,4,Long wait time
+S943621,E001517,10,2,1,1,Nurse was helpful
+S704469,E007389,10,4,4,2,Great care
+S628221,E004930,0,4,3,4,Great care
+S164243,E005558,2,3,2,3,
+S178027,E005894,8,4,1,5,Facilities need improvement
+S439064,E006632,9,5,1,2,Great care
+S003684,E001388,7,5,3,3,
+S921136,E002414,8,2,2,5,Great care
+S591720,E001634,1,3,5,5,
+S708699,E005921,6,3,1,1,Nurse was helpful
+S027581,E006385,10,3,1,1,Great care
+S234745,E007734,10,3,5,3,Nurse was helpful
+S455074,E000848,0,2,2,5,Nurse was helpful
+S080221,E006794,6,4,3,2,
+S741470,E005461,7,5,1,2,Facilities need improvement
+S348431,E007763,10,1,3,4,Nurse was helpful
+S027519,E006203,10,1,2,3,Doctor explained well
+S289406,E003459,5,1,1,4,
+S798004,E005476,3,3,2,5,Long wait time
+S614687,E007947,8,4,1,3,Facilities need improvement
+S532955,E003742,5,3,1,1,Long wait time
+S341109,E006974,5,1,4,1,Doctor explained well
+S984916,E002538,2,1,5,4,Doctor explained well
+S930177,E001837,8,3,4,4,Great care
+S874170,E001210,10,3,4,4,Doctor explained well
+S791888,E003807,0,1,3,5,Facilities need improvement
+S970488,E002909,1,1,5,5,Nurse was helpful
+S875419,E003991,7,3,5,4,Great care
+S568471,E005077,6,1,4,2,Facilities need improvement
+S037724,E004833,1,5,2,2,Long wait time
+S259213,E007721,8,1,3,2,Nurse was helpful
+S330619,E002275,10,5,5,2,Doctor explained well
+S962820,E002784,3,5,2,5,Great care
+S014004,E006574,5,4,3,4,Nurse was helpful
+S183473,E003304,4,3,5,4,Facilities need improvement
+S233529,E006031,7,1,4,3,Great care
+S268262,E000701,2,1,4,4,Facilities need improvement
+S541768,E000853,0,3,3,4,Doctor explained well
+S497704,E007659,7,3,5,5,Long wait time
+S465270,E002123,7,2,4,1,Nurse was helpful
+S867425,E004670,8,3,3,5,Doctor explained well
+S955685,E004049,9,2,5,1,
+S119065,E001694,4,5,5,1,Nurse was helpful
+S726338,E003276,7,5,2,5,Facilities need improvement
+S254911,E002347,7,2,5,2,
+S801049,E007685,2,3,3,2,
+S615705,E004229,9,1,5,3,Long wait time
+S542417,E006724,1,5,4,5,Nurse was helpful
+S170608,E005357,5,3,5,3,Long wait time
+S870440,E001180,10,3,1,2,Doctor explained well
+S397037,E002407,0,3,5,5,
+S709008,E005693,3,5,2,3,
+S591499,E001280,8,4,3,5,Nurse was helpful
+S127190,E001885,10,4,4,5,Nurse was helpful
+S937748,E006798,2,4,3,2,Doctor explained well
+S998527,E002599,0,1,2,2,Great care
+S244729,E001720,5,3,4,5,Facilities need improvement
+S989638,E005889,9,1,4,4,Facilities need improvement
+S407747,E003218,2,5,5,3,Facilities need improvement
+S104502,E007312,10,1,5,2,Facilities need improvement
+S994191,E005086,6,1,5,4,Nurse was helpful
+S967324,E005021,4,1,4,5,Facilities need improvement
+S393453,E001868,1,1,1,4,Long wait time
+S435412,E002109,8,4,2,1,Long wait time
+S572411,E000679,4,5,1,5,Doctor explained well
+S995100,E007556,9,4,5,4,Great care
+S888165,E005789,6,1,3,2,Doctor explained well
+S003085,E003498,6,2,3,3,Facilities need improvement
+S685106,E007461,8,2,1,1,Facilities need improvement
+S190949,E004993,10,2,1,2,Doctor explained well
+S740587,E000798,10,1,1,3,Doctor explained well
+S060114,E005173,0,5,3,3,Nurse was helpful
+S089197,E007062,8,2,4,1,Long wait time
+S999726,E004931,4,1,3,1,Facilities need improvement
+S967191,E003262,4,2,2,2,Doctor explained well
+S275169,E007673,7,1,3,2,Nurse was helpful
+S317815,E005913,5,2,1,3,Nurse was helpful
+S621147,E002473,0,3,2,3,
+S581320,E006226,0,3,1,1,Doctor explained well
+S163282,E004163,9,1,5,5,Great care
+S899299,E002431,9,3,1,3,Nurse was helpful
+S295866,E002897,0,5,4,5,Nurse was helpful
+S353173,E005728,0,1,4,3,Great care
+S446252,E003411,10,5,1,5,Nurse was helpful
+S964699,E003219,8,3,5,3,Long wait time
+S534761,E007840,9,2,1,2,Doctor explained well
+S691862,E003406,8,3,4,1,Great care
+S408071,E001974,5,4,1,1,
+S523155,E004161,8,5,5,3,
+S935912,E007305,4,3,2,3,Facilities need improvement
+S239602,E000069,8,2,2,1,
+S608161,E000667,0,2,4,3,
+S484221,E001550,6,5,1,3,Long wait time
+S989076,E007606,9,4,4,5,
+S758865,E004969,2,3,5,3,Doctor explained well
+S788974,E003995,0,2,4,4,Facilities need improvement
+S821585,E001282,8,2,5,2,Long wait time
+S384007,E005330,10,5,3,3,Doctor explained well
+S827356,E003645,5,3,4,5,Doctor explained well
+S646411,E001522,1,2,2,4,Nurse was helpful
+S503449,E007238,1,2,2,5,Nurse was helpful
+S770267,E005602,8,5,1,3,Facilities need improvement
+S473389,E002749,0,4,3,5,Doctor explained well
+S803062,E003826,8,1,2,4,Nurse was helpful
+S188857,E005700,9,2,3,1,
+S419149,E002223,5,1,5,4,Facilities need improvement
+S790012,E000218,9,1,4,4,Nurse was helpful
+S134689,E003367,2,3,5,3,Nurse was helpful
+S611805,E004533,2,4,1,2,Long wait time
+S856170,E005556,9,3,4,3,Facilities need improvement
+S929707,E002191,4,1,4,4,
+S411054,E003734,0,5,5,2,Great care
+S319907,E001597,4,1,2,4,Great care
+S750729,E006041,0,1,2,2,Long wait time
+S711374,E000577,9,1,2,4,
+S768739,E003340,3,2,1,4,
+S028303,E002201,0,3,4,2,Doctor explained well
+S310000,E001138,1,1,5,5,Long wait time
+S266779,E004012,5,3,5,2,Long wait time
+S163751,E001206,9,5,5,5,Long wait time
+S649666,E000976,1,1,5,2,
+S305241,E000723,2,1,4,4,Facilities need improvement
+S239137,E003548,10,5,5,3,Great care
+S648262,E006012,3,3,2,3,
+S989338,E006562,6,3,5,3,Nurse was helpful
+S390493,E004041,8,5,3,4,Facilities need improvement
+S363022,E006722,7,3,4,5,Nurse was helpful
+S056196,E001363,2,3,5,5,Doctor explained well
+S466340,E004409,4,3,5,1,Doctor explained well
+S640827,E005136,4,5,4,3,
+S901689,E002574,8,4,4,4,Great care
+S324717,E007743,10,5,3,5,
+S864522,E001857,8,3,5,3,Long wait time
+S483792,E003240,2,2,3,2,Great care
+S975293,E004494,9,1,3,4,Nurse was helpful
+S745777,E005475,5,5,5,4,
+S003904,E001405,4,3,2,4,
+S474470,E005881,6,4,3,4,Doctor explained well
+S426216,E001127,6,3,3,3,Nurse was helpful
+S270484,E006054,10,4,4,4,
+S999578,E004123,5,5,2,4,Facilities need improvement
+S005625,E006101,0,1,2,1,Facilities need improvement
+S048917,E000759,1,4,4,4,Long wait time
+S848292,E001157,5,5,1,1,Great care
+S511773,E000404,9,1,2,1,Long wait time
+S040335,E006473,2,1,4,3,Facilities need improvement
+S354425,E001135,9,5,2,4,
+S598292,E005595,1,2,2,1,Long wait time
+S195823,E002869,8,4,2,1,
+S581458,E006554,0,1,5,3,Nurse was helpful
+S157834,E005214,4,4,2,2,Facilities need improvement
+S200496,E002204,8,1,4,4,
+S000213,E000815,7,2,2,4,Nurse was helpful
+S731334,E001788,8,5,1,2,Facilities need improvement
+S404261,E003590,4,3,3,4,Doctor explained well
+S621050,E005902,3,5,4,4,Long wait time
+S494590,E001674,1,2,3,2,Doctor explained well
+S384910,E006011,5,1,3,5,
+S638140,E005800,7,3,3,4,Long wait time
+S327871,E001065,8,1,3,1,Doctor explained well
+S130587,E003619,7,1,2,3,
+S816960,E002232,10,5,2,4,Nurse was helpful
+S744196,E006915,0,3,4,5,Long wait time
+S500794,E001895,0,4,4,5,Nurse was helpful
+S652442,E003133,7,2,5,5,Great care
+S193225,E004177,4,2,1,1,Doctor explained well
+S983045,E005016,5,2,2,2,
+S663501,E003252,4,5,1,3,Long wait time
+S808330,E001933,1,5,3,4,Doctor explained well
+S931869,E003855,2,4,3,5,Doctor explained well
+S165626,E000106,0,5,3,2,Nurse was helpful
+S953081,E004085,6,1,1,3,Facilities need improvement
+S071507,E001250,10,2,3,2,
+S561779,E006778,1,5,2,1,Facilities need improvement
+S592078,E007113,4,2,5,3,Facilities need improvement
+S562531,E005316,6,4,2,4,Great care
+S268020,E001668,6,5,5,2,Long wait time
+S175920,E000731,8,4,2,4,Great care
+S068919,E004429,0,3,3,5,Facilities need improvement
+S214313,E000192,0,2,4,1,Doctor explained well
+S811753,E006426,10,3,2,4,
+S353138,E003726,1,5,5,1,Doctor explained well
+S335485,E007821,10,3,4,3,Great care
+S495141,E004399,9,4,1,1,Great care
+S473662,E002816,10,1,1,1,Nurse was helpful
+S949327,E007194,4,4,1,4,
+S483264,E000279,4,2,2,1,Long wait time
+S882056,E005062,4,5,3,2,Great care
+S256835,E000986,0,5,5,2,Facilities need improvement
+S830513,E005704,1,4,2,5,Long wait time
+S807477,E002469,1,4,3,4,Nurse was helpful
+S787775,E002761,10,4,1,4,Great care
+S028386,E007930,2,5,3,2,Long wait time
+S347514,E002076,5,2,4,3,Great care
+S681671,E006537,1,2,2,3,Doctor explained well
+S435400,E007987,5,1,5,5,Facilities need improvement
+S181579,E003081,7,1,3,5,Long wait time
+S041782,E002120,10,1,1,2,Nurse was helpful
+S450168,E007724,7,4,2,1,Long wait time
+S452362,E000850,1,2,5,1,Facilities need improvement
+S368124,E000702,7,2,4,1,Great care
+S149385,E000469,4,1,5,1,Doctor explained well
+S292700,E002246,8,1,3,5,Doctor explained well
+S691788,E000685,7,3,3,1,Great care
+S683523,E002285,5,2,5,4,Great care
+S830737,E001178,8,2,2,1,Long wait time
+S850310,E004941,10,1,4,2,Doctor explained well
+S381080,E000086,4,5,5,5,
+S088148,E003901,0,1,2,3,Facilities need improvement
+S992063,E007524,3,1,3,2,Facilities need improvement
+S071704,E005786,2,4,5,1,Great care
+S710140,E002167,8,1,1,1,Doctor explained well
+S221369,E004907,2,3,2,4,Nurse was helpful
+S672287,E002973,8,4,2,5,
+S415308,E007125,7,2,3,2,Doctor explained well
+S238298,E006763,0,4,1,4,Nurse was helpful
+S222627,E001848,8,4,1,4,
+S983926,E004876,2,2,3,4,Great care
+S455969,E004449,6,2,2,3,
+S080160,E005630,10,1,5,1,
+S410474,E006149,5,3,5,2,Long wait time
+S453775,E002746,6,3,5,3,
+S095245,E005401,3,3,5,3,Great care
+S302102,E004871,2,3,4,3,Great care
+S001527,E007021,8,3,5,3,Doctor explained well
+S002154,E002029,3,5,3,4,Doctor explained well
+S884461,E001055,7,1,2,4,Facilities need improvement
+S012891,E005614,8,2,5,4,Great care
+S997884,E000508,6,3,2,2,Nurse was helpful
+S107096,E001217,9,3,4,1,Facilities need improvement
+S571768,E003964,1,4,3,2,Long wait time
+S650536,E001056,2,1,1,3,Nurse was helpful
+S929904,E003297,6,5,1,4,
+S059250,E003449,9,5,2,4,Long wait time
+S427722,E002653,1,5,5,3,Long wait time
+S302630,E001126,0,2,3,2,Doctor explained well
+S974682,E000308,9,5,3,2,Long wait time
+S051805,E002509,9,2,4,1,Doctor explained well
+S748405,E007220,3,5,2,1,Long wait time
+S711514,E004217,1,1,5,1,Great care
+S447433,E001875,10,1,2,5,Facilities need improvement
+S440464,E003874,1,2,5,3,Facilities need improvement
+S697717,E003694,0,1,3,5,Facilities need improvement
+S880748,E000154,3,1,5,3,Nurse was helpful
+S337790,E006289,5,2,4,5,
+S437721,E007739,8,4,3,5,Facilities need improvement
+S262275,E004990,4,4,1,5,
+S333430,E000461,5,2,4,2,Facilities need improvement
+S509787,E002357,8,5,2,3,
+S588297,E005351,7,4,4,3,
+S123460,E000393,1,2,2,1,Facilities need improvement
+S895915,E003234,9,2,4,5,Long wait time
+S700420,E007590,2,2,5,3,Nurse was helpful
+S039538,E004771,4,1,5,3,Facilities need improvement
+S206496,E001889,0,1,2,3,Long wait time
+S017376,E003825,9,1,5,5,Long wait time
+S232205,E007563,6,4,5,2,Long wait time
+S203464,E000684,8,4,2,5,Facilities need improvement
+S230242,E004092,0,3,5,5,Doctor explained well
+S402732,E002695,4,5,2,3,Nurse was helpful
+S440670,E006321,6,2,1,3,Doctor explained well
+S765833,E005070,5,1,3,5,Doctor explained well
+S020107,E003002,8,5,5,3,Doctor explained well
+S556533,E005302,7,4,4,4,Doctor explained well
+S663444,E004459,5,2,4,2,Facilities need improvement
+S239556,E005838,8,4,4,2,Facilities need improvement
+S261160,E005560,1,2,1,3,Doctor explained well
+S028613,E000073,8,5,2,1,
+S331283,E007553,9,2,1,5,Great care
+S449293,E001828,9,4,1,1,Nurse was helpful
+S379860,E005985,0,3,3,5,Nurse was helpful
+S447318,E002866,1,2,2,3,
+S325935,E002459,2,3,4,5,Long wait time
+S888727,E007508,10,3,3,2,Great care
+S323034,E004945,4,3,3,1,Facilities need improvement
+S554027,E007972,2,1,3,5,Nurse was helpful
+S012076,E001311,9,4,2,5,Long wait time
+S100012,E000824,1,2,1,3,Nurse was helpful
+S099142,E006792,9,1,5,4,Doctor explained well
+S208214,E002793,8,3,3,5,Long wait time
+S134713,E002850,10,5,3,3,Doctor explained well
+S136852,E000842,9,1,4,5,Long wait time
+S014201,E007381,3,2,2,5,Doctor explained well
+S941584,E003104,0,2,4,1,Doctor explained well
+S005467,E004726,3,5,5,5,Facilities need improvement
+S768827,E000319,6,4,4,2,Nurse was helpful
+S514245,E006540,4,5,5,4,Long wait time
+S874603,E007078,10,5,2,1,Doctor explained well
+S707213,E001785,6,1,2,5,Great care
+S046910,E000875,3,1,1,3,Nurse was helpful
+S751065,E004396,2,4,4,4,Doctor explained well
+S000386,E000797,7,2,3,2,Doctor explained well
+S689003,E000808,10,4,2,5,
+S616753,E006718,1,2,4,1,Long wait time
+S008155,E000148,2,4,1,4,Nurse was helpful
+S825752,E007247,7,4,4,1,Doctor explained well
+S748757,E006145,7,5,3,2,Nurse was helpful
+S692612,E001952,8,1,1,5,Facilities need improvement
+S288528,E000725,7,5,1,4,Doctor explained well
+S349080,E003754,3,1,2,1,Nurse was helpful
+S714174,E003117,4,2,5,2,Great care
+S466363,E006437,6,1,2,2,
+S415576,E003894,6,1,4,2,
+S201149,E001371,1,2,5,3,Great care
+S266921,E002263,4,1,5,5,Nurse was helpful
+S706213,E004343,9,1,5,5,
+S841120,E001988,6,5,2,1,Doctor explained well
+S684827,E004407,4,2,1,1,Great care
+S290183,E005774,10,3,1,1,Nurse was helpful
+S729854,E002422,1,1,3,5,Great care
+S493630,E003390,7,4,4,3,Long wait time
+S608586,E005471,0,4,3,2,Long wait time
+S777207,E006927,6,1,1,1,Doctor explained well
+S584636,E002968,9,1,1,1,Long wait time
+S837894,E003529,8,2,1,1,Long wait time
+S436934,E004654,8,3,1,4,Doctor explained well
+S417725,E002197,7,4,4,5,Great care
+S532198,E001685,1,3,1,2,
+S581965,E001699,6,4,3,5,Facilities need improvement
+S748825,E000017,10,4,5,2,
+S823662,E003923,1,2,3,2,Doctor explained well
+S349371,E001404,0,3,4,4,Facilities need improvement
+S533266,E007351,5,3,2,1,Long wait time
+S656960,E001198,1,1,3,2,Long wait time
+S231362,E006243,8,4,5,1,Doctor explained well
+S898875,E004953,4,4,5,4,Great care
+S164308,E000908,5,5,5,2,Facilities need improvement
+S650581,E004818,6,5,3,5,
+S062681,E002061,6,3,4,3,Great care
+S367744,E001274,0,5,3,2,Long wait time
+S414386,E002071,4,2,3,5,Nurse was helpful
+S921699,E000187,10,1,4,4,Long wait time
+S262499,E000937,9,1,2,3,
+S406400,E000236,6,2,2,3,Great care
+S904466,E006731,0,1,3,4,Facilities need improvement
+S534360,E004433,9,2,5,1,Doctor explained well
+S791957,E006925,0,4,4,2,Facilities need improvement
+S533875,E003078,8,2,1,4,Great care
+S611667,E006306,8,3,3,2,Doctor explained well
+S038010,E001104,10,3,3,2,Nurse was helpful
+S168400,E001854,8,3,4,1,Facilities need improvement
+S367425,E000974,1,2,2,4,Doctor explained well
+S660759,E006198,6,4,4,4,
+S833592,E003718,10,5,3,5,Long wait time
+S494205,E002429,2,5,2,4,Doctor explained well
+S201193,E003693,5,1,1,4,Long wait time
+S147129,E002610,2,5,5,4,Great care
+S606464,E000382,7,4,3,4,Nurse was helpful
+S271246,E002042,7,5,3,3,Great care
+S952612,E005839,2,1,4,1,Great care
+S129528,E005480,2,5,2,5,Great care
+S593365,E004765,10,4,4,2,
+S638551,E001472,0,3,2,4,
+S603319,E006099,0,3,1,3,Nurse was helpful
+S653881,E004290,7,3,3,3,
+S004943,E006981,8,3,3,4,Doctor explained well
+S732765,E004118,1,5,1,4,Nurse was helpful
+S046150,E005445,2,4,2,1,Facilities need improvement
+S635782,E003300,8,2,5,4,Long wait time
+S427517,E002756,10,5,1,4,Long wait time
+S938953,E005088,8,3,5,4,Great care
+S049125,E007604,5,1,4,5,
+S903428,E006990,1,4,2,1,Nurse was helpful
+S148538,E003106,0,1,2,1,Great care
+S827999,E001539,8,3,1,4,Nurse was helpful
+S610342,E000633,0,1,4,4,Doctor explained well
+S784283,E006207,4,1,4,1,Doctor explained well
+S704696,E006605,10,5,1,5,Facilities need improvement
+S939211,E003600,6,2,5,4,Great care
+S089990,E001529,9,3,5,3,Great care
+S842708,E003196,7,2,4,4,
+S205085,E007522,5,2,3,2,Long wait time
+S528875,E001843,6,4,3,4,Facilities need improvement
+S788021,E007424,4,1,5,2,Long wait time
+S158675,E001800,1,2,3,4,Long wait time
+S409972,E000772,0,2,3,5,Long wait time
+S971543,E007937,4,3,3,3,
+S868543,E000549,9,4,1,5,Nurse was helpful
+S964553,E003098,4,3,5,4,Great care
+S251670,E004251,8,1,3,5,Long wait time
+S431398,E006165,8,1,5,5,Nurse was helpful
+S527003,E001377,6,2,5,2,Long wait time
+S096370,E000602,5,1,4,1,Nurse was helpful
+S744615,E002857,7,1,2,1,Facilities need improvement
+S508511,E000470,5,3,1,3,Long wait time
+S494497,E003073,0,1,5,4,Long wait time
+S484521,E002836,1,5,2,3,Long wait time
+S798003,E001553,10,5,5,5,Nurse was helpful
+S821922,E000355,9,5,5,5,Doctor explained well
+S536631,E007963,5,2,3,2,Great care
+S001775,E000201,8,1,4,4,Doctor explained well
+S303884,E000220,9,4,1,1,Nurse was helpful
+S035440,E007888,3,2,2,4,Facilities need improvement
+S332398,E005847,1,3,1,5,Facilities need improvement
+S234107,E002105,8,1,3,4,
+S083683,E003358,10,4,5,1,
+S807216,E005643,1,4,2,3,Facilities need improvement
+S550839,E004040,0,3,1,2,Nurse was helpful
+S468387,E001687,4,3,2,4,Great care
+S367460,E000949,2,5,2,2,Great care
+S858010,E001263,3,4,5,1,
+S558640,E000792,6,1,2,4,Nurse was helpful
+S881564,E006696,0,4,5,4,Great care
+S472954,E006893,9,5,4,4,Nurse was helpful
+S803033,E000134,7,1,3,2,Great care
+S210320,E003261,1,4,4,4,Doctor explained well
+S417661,E007684,7,2,2,4,Doctor explained well
+S032221,E002295,0,1,1,3,Doctor explained well
+S011353,E001143,10,2,4,2,Great care
+S685756,E006664,10,4,5,4,
+S030638,E006294,8,3,2,1,Facilities need improvement
+S470488,E002242,4,4,5,1,Facilities need improvement
+S562224,E006472,9,2,1,5,
+S327005,E004867,6,5,4,2,
+S621809,E003491,0,3,2,5,Facilities need improvement
+S691899,E002924,7,1,1,4,
+S308538,E006414,5,3,5,5,Facilities need improvement
+S057394,E003904,0,3,3,1,Great care
+S285525,E001128,7,5,2,4,Great care
+S117627,E004912,8,3,2,3,
+S621308,E002992,1,4,5,1,Nurse was helpful
+S448950,E007020,9,4,5,5,Great care
+S130695,E004921,0,1,1,2,Facilities need improvement
+S648576,E002904,7,1,2,5,
+S096181,E001491,9,2,4,4,Doctor explained well
+S468359,E002018,3,3,2,5,Nurse was helpful
+S316988,E003004,5,5,4,1,Long wait time
+S171627,E007518,4,1,4,5,Long wait time
+S607824,E001125,0,4,4,5,Long wait time
+S856385,E003944,9,5,2,4,Great care
+S373501,E004294,5,5,3,3,Nurse was helpful
+S980546,E006184,0,4,4,1,Long wait time
+S861426,E003919,9,5,5,5,Great care
+S859325,E006646,5,1,2,4,
+S115684,E000346,4,4,1,3,Great care
+S901818,E004492,10,3,4,2,Great care
+S265189,E005106,10,4,1,2,Nurse was helpful
+S616747,E007745,10,3,5,5,Long wait time
+S058440,E006121,0,4,3,3,
+S799228,E006728,4,3,4,1,
+S256332,E003559,1,2,4,1,
+S749008,E004803,1,4,4,3,Great care
+S642507,E002027,2,1,5,5,Great care
+S583783,E007768,3,5,1,1,Long wait time
+S574158,E006569,0,1,1,2,Doctor explained well
+S278742,E006958,3,3,4,3,Doctor explained well
+S485466,E000975,9,4,3,5,Nurse was helpful
+S438623,E006396,2,1,3,5,
+S918517,E007939,10,4,3,4,Nurse was helpful
+S426682,E003130,10,2,1,2,Facilities need improvement
+S394357,E006549,0,3,2,5,Doctor explained well
+S915502,E000563,8,4,5,4,Doctor explained well
+S812712,E001870,7,1,1,1,Long wait time
+S910335,E006856,2,3,4,2,Doctor explained well
+S259532,E005377,2,5,5,5,Nurse was helpful
+S184517,E000089,4,3,3,5,Nurse was helpful
+S548868,E007999,1,4,4,2,Great care
+S963517,E005569,10,4,4,4,Nurse was helpful
+S281189,E000161,3,5,5,1,Long wait time
+S862706,E001972,6,4,1,5,Great care
+S299389,E004701,6,1,5,5,Doctor explained well
+S337507,E002185,2,4,2,2,Facilities need improvement
+S490398,E007168,3,4,1,5,
+S328685,E007211,4,4,3,3,Long wait time
+S772993,E003145,3,5,1,4,
+S800058,E001098,7,2,5,2,Doctor explained well
+S437779,E005354,2,5,1,3,Great care
+S237077,E005690,0,2,4,5,Facilities need improvement
+S862326,E001650,4,1,3,1,Doctor explained well
+S821194,E004331,2,4,3,2,Great care
+S822637,E007204,9,4,2,3,Long wait time
+S850545,E006200,7,2,2,3,Long wait time
+S118897,E003698,4,2,5,1,Nurse was helpful
+S752087,E003215,1,3,5,5,Long wait time
+S034726,E002276,5,2,4,4,Great care
+S902163,E003566,10,5,1,2,Great care
+S210117,E001752,9,5,2,1,Doctor explained well
+S172463,E003699,8,3,2,3,
+S283637,E001879,6,2,5,3,Long wait time
+S313412,E000927,8,5,3,4,
+S043139,E000261,4,3,2,1,Long wait time
+S744039,E005341,10,1,2,3,Doctor explained well
+S599022,E002208,3,2,5,5,
+S046145,E004779,3,3,3,5,Doctor explained well
+S176664,E007439,10,2,1,2,Great care
+S689658,E006811,1,3,2,2,Great care
+S760169,E001538,6,5,5,4,
+S430607,E001419,6,2,1,3,
+S278013,E003832,3,1,3,3,Nurse was helpful
+S035380,E001925,2,1,5,4,Long wait time
+S808186,E006038,0,1,4,4,Long wait time
+S162759,E003268,7,4,5,1,Doctor explained well
+S671137,E006338,4,4,1,3,Long wait time
+S579690,E001663,7,2,1,2,Long wait time
+S944924,E001422,8,3,5,5,Nurse was helpful
+S414883,E005929,4,2,5,5,Doctor explained well
+S426667,E007671,1,2,4,2,Facilities need improvement
+S215538,E006834,1,1,5,3,Doctor explained well
+S099922,E000705,4,1,1,3,
+S907526,E004446,0,1,3,4,Doctor explained well
+S416885,E001266,5,3,4,3,Long wait time
+S611041,E001376,3,5,2,4,Great care
+S222083,E005166,0,1,3,4,Doctor explained well
+S351266,E006350,5,2,1,1,Doctor explained well
+S860097,E005115,2,3,4,3,Great care
+S832645,E001156,10,4,5,1,Doctor explained well
+S531026,E007335,1,5,5,5,Long wait time
+S304774,E000455,9,5,5,3,Doctor explained well
+S163220,E005949,2,4,1,1,Nurse was helpful
+S590686,E003924,1,3,1,1,Nurse was helpful
+S704298,E001811,9,2,2,3,Great care
+S988832,E000941,6,1,3,5,Great care
+S434931,E002418,2,4,4,2,Great care
+S756334,E006963,10,4,5,2,Great care
+S657636,E004809,7,1,3,1,Doctor explained well
+S400859,E000956,7,2,3,2,Great care
+S281135,E003090,1,2,5,4,Great care
+S574843,E004920,10,4,2,4,
+S988820,E003931,3,3,4,3,Great care
+S103051,E003173,7,3,1,4,Great care
+S365417,E003946,5,3,1,4,Great care
+S764917,E004662,8,2,5,1,Long wait time
+S796766,E005328,1,1,4,2,
+S059011,E007694,0,2,1,5,Long wait time
+S023760,E006335,4,2,1,1,Doctor explained well
+S202113,E006215,5,1,5,1,Facilities need improvement
+S279871,E005417,6,1,3,4,Nurse was helpful
+S936727,E004336,2,1,2,4,Facilities need improvement
+S172328,E002577,0,1,2,3,
+S015551,E001249,8,4,4,1,
+S003808,E002054,8,5,1,3,Nurse was helpful
+S541411,E000615,6,3,1,2,Facilities need improvement
+S532010,E000430,6,4,3,5,Nurse was helpful
+S367002,E000425,2,3,4,2,Facilities need improvement
+S135938,E002971,0,5,4,2,Great care
+S754221,E001204,5,4,1,3,Great care
+S354178,E003439,6,3,4,3,Nurse was helpful
+S758304,E003352,6,4,3,5,Nurse was helpful
+S748719,E007416,4,2,2,4,
+S346839,E003707,8,2,1,2,Facilities need improvement
+S902142,E000952,10,1,1,2,Facilities need improvement
+S582110,E006650,6,4,4,3,
+S254061,E005128,10,3,1,4,Great care
+S718835,E004089,1,5,1,3,Doctor explained well
+S770804,E000173,0,4,2,2,Nurse was helpful
+S423653,E006084,4,2,5,4,Nurse was helpful
+S652894,E002354,5,5,3,1,Long wait time
+S789147,E000431,7,1,2,1,Nurse was helpful
+S138042,E002619,6,5,1,1,Facilities need improvement
+S748602,E007236,1,1,3,1,
+S917514,E003887,9,4,4,2,Great care
+S217262,E004548,9,5,1,3,Facilities need improvement
+S458448,E002548,7,4,2,1,Doctor explained well
+S732479,E007358,3,1,5,4,Doctor explained well
+S602998,E007118,10,1,3,3,Great care
+S917105,E001975,5,3,5,4,Doctor explained well
+S890605,E002790,9,3,4,3,Nurse was helpful
+S337294,E003231,4,4,4,2,Great care
+S508688,E000522,10,2,1,1,
+S652464,E004698,1,5,5,1,Nurse was helpful
+S978748,E000092,9,4,4,3,Great care
+S743180,E003909,5,2,3,1,Great care
+S871454,E001642,1,4,3,2,Long wait time
+S294836,E002037,0,2,1,3,Facilities need improvement
+S630687,E005444,3,5,5,5,Great care
+S145370,E003666,9,2,3,1,Great care
+S404601,E006705,8,4,1,5,Doctor explained well
+S933578,E000906,2,3,2,4,Facilities need improvement
+S817174,E000159,1,5,5,1,
+S566241,E001681,3,1,1,5,Great care
+S666238,E007474,0,4,4,2,Nurse was helpful
+S173813,E000344,6,5,5,4,Nurse was helpful
+S286602,E007164,3,4,5,3,
+S003053,E005857,5,2,4,4,Great care
+S453312,E004799,10,3,3,2,Great care
+S497210,E000538,3,5,3,2,Great care
+S417626,E001209,2,2,2,3,
+S056293,E003955,8,4,2,3,
+S125609,E006968,6,3,5,2,Great care
+S692363,E007433,6,2,5,4,Long wait time
+S806856,E007278,1,4,4,4,Doctor explained well
+S540718,E003360,0,5,1,1,Nurse was helpful
+S602876,E002026,6,5,2,1,
+S610040,E006296,3,1,5,4,Long wait time
+S468923,E001883,2,4,1,5,Long wait time
+S138609,E002560,10,5,4,4,Great care
+S171546,E001510,2,5,4,1,Great care
+S649898,E002171,1,5,2,4,
+S985605,E000209,3,2,5,1,Long wait time
+S289579,E004970,9,4,3,4,Great care
+S825901,E004345,1,1,5,4,Doctor explained well
+S552657,E004735,3,1,4,5,Great care
+S087713,E003022,2,5,1,1,Doctor explained well
+S589775,E004255,3,3,5,5,Great care
+S430583,E007195,9,2,4,5,Nurse was helpful
+S067320,E002495,7,4,1,3,Doctor explained well
+S831049,E000112,0,2,1,2,Long wait time
+S890067,E004526,1,3,4,4,Doctor explained well
+S722486,E002951,8,2,1,5,Facilities need improvement
+S638539,E003312,0,3,1,4,Long wait time
+S225442,E006663,2,3,5,2,Facilities need improvement
+S995856,E003302,2,2,1,4,Long wait time
+S725596,E003687,2,4,5,1,Facilities need improvement
+S980781,E000596,0,4,5,4,Facilities need improvement
+S898541,E002253,4,1,4,3,
+S779178,E005689,10,3,1,5,Doctor explained well
+S715243,E003516,8,2,5,3,Doctor explained well
+S856473,E001984,7,5,3,1,Facilities need improvement
+S460137,E004753,1,5,3,3,Facilities need improvement
+S875339,E005217,7,4,5,3,Facilities need improvement
+S601410,E005900,6,5,1,1,Nurse was helpful
+S286693,E007535,0,3,1,2,Facilities need improvement
+S825703,E003913,2,4,5,2,Nurse was helpful
+S258754,E000693,10,3,3,2,Doctor explained well
+S276060,E001049,5,4,2,1,
+S103241,E002243,9,5,2,2,Long wait time
+S993918,E005199,10,4,3,3,
+S351740,E005100,8,5,4,3,
+S034493,E005394,4,2,2,2,Doctor explained well
+S843806,E004573,8,5,2,5,Nurse was helpful
+S717845,E000446,10,2,1,3,
+S026510,E003712,6,1,5,4,Long wait time
+S482486,E004480,6,5,2,5,Facilities need improvement
+S988865,E006117,0,3,3,2,Great care
+S233050,E004825,4,3,4,4,Great care
+S556333,E001794,10,4,2,2,Facilities need improvement
+S640034,E001195,5,1,4,5,Doctor explained well
+S168321,E004878,4,1,5,1,Nurse was helpful
+S127929,E002868,7,2,1,2,Facilities need improvement
+S596107,E005937,6,4,1,4,Long wait time
+S424188,E005738,2,5,1,5,Long wait time
+S332734,E007422,10,3,4,1,
+S702703,E002733,3,1,4,1,
+S540138,E003040,4,3,4,3,Long wait time
+S684804,E004252,7,3,2,3,Long wait time
+S885403,E004845,3,4,5,3,Facilities need improvement
+S363910,E007542,10,5,1,2,Doctor explained well
+S259617,E002763,4,2,3,1,Long wait time
+S605205,E000128,7,1,3,1,Long wait time
+S643117,E000032,3,3,5,3,Doctor explained well
+S837131,E004674,1,5,1,1,
+S557380,E002145,4,1,1,5,Great care
+S325185,E004281,2,1,5,1,Doctor explained well
+S998934,E001095,6,4,4,1,Doctor explained well
+S972207,E005368,10,3,3,3,Long wait time
+S166514,E006939,6,1,1,4,Great care
+S269530,E007612,3,2,3,1,
+S955857,E003864,0,3,3,5,Facilities need improvement
+S287645,E005607,6,2,3,1,Nurse was helpful
+S131616,E005654,4,4,1,5,Doctor explained well
+S100862,E006805,9,3,4,4,Great care
+S658948,E000652,3,4,2,1,Great care
+S755639,E007150,5,1,1,1,Long wait time
+S390491,E003982,4,3,3,2,Long wait time
+S585655,E005988,1,2,2,2,Nurse was helpful
+S919416,E000131,6,3,1,3,Great care
+S592453,E004172,10,3,2,4,Doctor explained well
+S940744,E004988,6,1,3,3,
+S900035,E003264,10,4,1,1,Nurse was helpful
+S300209,E001129,7,3,4,2,
+S793405,E004283,2,3,2,4,Facilities need improvement
+S373973,E004203,4,3,3,2,Nurse was helpful
+S683657,E002745,6,1,3,3,Doctor explained well
+S437309,E000135,8,2,5,5,Long wait time
+S447008,E003341,8,1,5,3,Nurse was helpful
+S906416,E002701,9,1,1,3,Nurse was helpful
+S632453,E004543,0,2,5,1,
+S581547,E000288,5,4,1,1,
+S385873,E005642,2,2,4,1,Great care
+S429548,E002562,1,1,4,4,Doctor explained well
+S861559,E000773,1,5,5,1,Facilities need improvement
+S604589,E007989,3,4,3,4,Doctor explained well
+S207575,E005596,7,4,4,3,Long wait time
+S575857,E006217,2,3,4,5,
+S128765,E001732,1,2,2,5,Long wait time
+S240177,E007009,10,2,3,1,Great care
+S532918,E007094,3,1,5,5,Great care
+S476124,E006393,8,5,3,1,Nurse was helpful
+S213880,E000213,9,2,3,4,Facilities need improvement
+S089029,E004257,6,5,5,1,
+S985271,E004602,0,4,3,4,Doctor explained well
+S216746,E005250,2,2,1,5,Doctor explained well
+S890084,E000803,2,5,2,1,Doctor explained well
+S343123,E006933,8,3,2,4,Great care
+S809825,E003578,0,2,5,4,Facilities need improvement
+S232284,E007971,2,4,1,4,Long wait time
+S326241,E007214,2,3,1,3,Nurse was helpful
+S881385,E000100,9,2,2,1,Facilities need improvement
+S649902,E002687,10,3,5,2,Doctor explained well
+S421173,E006022,3,5,3,5,Facilities need improvement
+S402009,E004572,3,5,4,4,
+S080076,E000553,4,2,3,5,Great care
+S876879,E000026,10,1,5,5,Nurse was helpful
+S031054,E001605,8,5,5,3,Nurse was helpful
+S474314,E003956,5,5,2,2,Great care
+S257083,E001779,1,3,3,2,Long wait time
+S958483,E005653,6,1,4,5,Doctor explained well
+S788661,E004534,5,5,5,1,Nurse was helpful
+S107495,E005382,3,3,4,2,Doctor explained well
+S459270,E004732,3,2,5,5,Great care
+S604859,E004866,10,2,3,3,
+S815512,E007149,8,5,2,4,Doctor explained well
+S262416,E005622,2,1,1,4,
+S755247,E007608,0,2,1,2,
+S155496,E003515,0,3,4,2,Facilities need improvement
+S673044,E001393,0,5,5,2,Great care
+S637381,E006139,4,4,3,2,Doctor explained well
+S687452,E005356,7,1,3,2,
+S803022,E002946,0,1,1,5,Nurse was helpful
+S873860,E007760,4,5,5,5,Facilities need improvement
+S131457,E007244,8,3,2,5,Nurse was helpful
+S409823,E005567,7,4,4,5,Nurse was helpful
+S989455,E002794,2,4,1,1,Doctor explained well
+S749545,E004900,10,4,2,3,Nurse was helpful
+S626573,E004323,1,2,4,2,Nurse was helpful
+S008517,E002916,0,2,1,1,Great care
+S664546,E003051,9,5,2,5,Facilities need improvement
+S771508,E002981,0,4,4,3,Great care
+S752336,E002019,9,4,4,5,Great care
+S322288,E002546,7,5,4,4,Facilities need improvement
+S581775,E007978,10,2,4,5,Nurse was helpful
+S252259,E004476,0,2,1,5,Facilities need improvement
+S086533,E005322,0,3,5,3,Facilities need improvement
+S506747,E005993,3,3,2,1,
+S514079,E001307,6,4,1,1,
+S336086,E001625,3,2,1,1,Facilities need improvement
+S166151,E002652,5,4,1,2,Doctor explained well
+S300445,E000940,4,5,5,5,Nurse was helpful
+S367781,E005143,2,1,5,2,Doctor explained well
+S657670,E004131,1,4,3,2,
+S399680,E000029,5,2,5,3,Facilities need improvement
+S288711,E003269,0,2,2,1,
+S571373,E005029,2,4,2,1,Great care
+S519439,E007013,10,4,2,4,Long wait time
+S868790,E004003,0,1,4,1,Great care
+S722238,E002239,9,1,1,4,
+S472257,E002825,9,2,4,1,
+S660050,E004890,7,2,3,1,Nurse was helpful
+S087461,E004371,4,3,1,1,Facilities need improvement
+S403464,E004669,4,5,3,3,Doctor explained well
+S674847,E003284,6,5,3,2,Doctor explained well
+S078658,E005895,10,5,1,3,Facilities need improvement
+S881311,E005337,0,3,1,4,Long wait time
+S609911,E004679,5,2,3,2,Great care
+S861615,E003772,5,4,4,4,Nurse was helpful
+S682977,E002736,0,4,1,3,Great care
+S942212,E003088,9,5,1,3,Nurse was helpful
+S410282,E006297,5,3,1,4,Facilities need improvement
+S166537,E002313,5,3,3,1,Nurse was helpful
+S500685,E003250,9,3,3,3,
+S806320,E006000,9,3,3,5,Facilities need improvement
+S739682,E006691,1,3,2,4,Nurse was helpful
+S356927,E005799,1,5,5,2,Great care
+S501265,E004348,0,5,4,5,Great care
+S707212,E003580,10,5,1,2,Doctor explained well
+S612010,E002692,3,4,2,2,Nurse was helpful
+S914424,E005248,9,1,5,2,Nurse was helpful
+S239478,E004642,6,1,1,2,Facilities need improvement
+S512386,E005118,2,4,2,3,Long wait time
+S727119,E004418,9,2,1,1,Doctor explained well
+S508056,E005274,1,4,5,5,
+S755459,E006947,0,3,1,4,Facilities need improvement
+S098496,E006191,5,3,2,1,Doctor explained well
+S857686,E000869,9,1,2,3,Nurse was helpful
+S163446,E003897,5,1,3,3,Doctor explained well
+S378244,E006056,0,3,1,1,Facilities need improvement
+S803532,E002859,4,2,4,3,Facilities need improvement
+S999281,E003586,0,2,3,3,Doctor explained well
+S990163,E006965,2,4,2,4,Great care
+S815927,E001340,7,4,4,5,Nurse was helpful
+S390209,E007307,3,4,4,5,Nurse was helpful
+S069236,E005629,8,5,3,4,Nurse was helpful
+S440872,E002365,2,5,3,1,Nurse was helpful
+S770185,E005772,5,1,4,4,Long wait time
+S115689,E000871,0,3,5,4,Great care
+S185468,E004355,8,2,4,5,Great care
+S680454,E001366,3,1,1,2,Facilities need improvement
+S862351,E003147,5,5,3,1,Great care
+S798859,E007834,7,4,3,4,Nurse was helpful
+S357954,E007163,10,4,5,4,
+S604172,E007359,9,3,2,1,Doctor explained well
+S301093,E004411,10,5,2,2,Doctor explained well
+S020118,E001526,7,1,5,3,Nurse was helpful
+S917586,E001783,4,4,1,1,Long wait time
+S259678,E000326,1,4,5,4,Great care
+S468916,E005031,8,4,3,1,Great care
+S264709,E000372,3,4,4,2,Great care
+S476514,E006944,6,5,4,1,Long wait time
+S246182,E007537,5,3,2,5,Great care
+S670850,E003161,1,5,2,3,Great care
+S568768,E002070,0,4,2,3,Facilities need improvement
+S601131,E002175,1,1,1,2,Great care
+S123059,E004054,1,1,4,3,Nurse was helpful
+S535746,E007137,8,3,2,1,Great care
+S984953,E006746,7,4,5,5,Nurse was helpful
+S868197,E002001,5,5,2,4,Nurse was helpful
+S771535,E006238,3,4,4,3,Great care
+S799366,E001357,6,1,5,4,
+S905923,E003751,8,4,1,2,Great care
+S362969,E002930,5,5,1,3,
+S998309,E001495,1,3,2,2,
+S493453,E006880,3,5,1,3,Doctor explained well
+S570284,E003342,9,4,5,5,
+S835990,E002142,8,5,1,3,Great care
+S174337,E007603,8,5,5,1,Great care
+S639470,E000088,0,5,5,1,Facilities need improvement
+S749621,E005508,8,3,4,1,
+S328627,E003969,3,2,1,5,Long wait time
+S992062,E000475,7,1,2,5,Nurse was helpful
+S830918,E007030,9,2,2,4,Facilities need improvement
+S112891,E004829,0,2,2,3,
+S476276,E006657,6,5,5,4,
+S581053,E006429,2,4,1,2,Nurse was helpful
+S659204,E006560,6,1,3,4,Nurse was helpful
+S346250,E003601,5,1,2,1,Nurse was helpful
+S631779,E004672,1,1,3,5,Long wait time
+S180926,E002623,2,4,3,1,Great care
+S140213,E001886,2,2,3,2,Long wait time
+S295035,E000964,8,2,1,1,Great care
+S227568,E007780,5,2,1,2,
+S800030,E002925,5,5,4,4,Nurse was helpful
+S849313,E002337,4,4,4,1,Facilities need improvement
+S574027,E001614,3,3,4,3,Nurse was helpful
+S000776,E006456,10,2,5,5,Nurse was helpful
+S259118,E000575,1,2,2,5,Great care
+S508422,E007133,10,4,5,4,
+S266615,E006837,10,3,4,4,Nurse was helpful
+S985363,E007085,1,3,3,2,
+S438159,E003896,0,1,3,1,Great care
+S350721,E006068,2,5,2,3,Nurse was helpful
+S529684,E002135,3,1,2,3,Doctor explained well
+S153429,E003960,1,4,5,5,Long wait time
+S781189,E005131,5,2,3,1,Long wait time
+S831954,E003902,10,3,4,4,Nurse was helpful
+S273903,E007857,9,2,1,5,Nurse was helpful
+S558494,E007771,7,2,3,1,
+S561569,E007940,4,5,3,5,Doctor explained well
+S438377,E000465,2,2,5,1,Facilities need improvement
+S307925,E004630,7,1,4,1,Nurse was helpful
+S977166,E003568,9,2,1,1,Doctor explained well
+S809234,E004483,10,3,4,3,
+S207245,E002646,9,2,1,4,Great care
+S566000,E007758,2,1,1,3,Doctor explained well
+S553029,E003355,8,2,3,3,
+S420349,E006343,9,5,5,2,
+S798493,E004010,9,4,3,2,
+S027561,E006126,9,1,3,5,
+S914044,E001626,7,3,5,4,Long wait time
+S763244,E004079,8,2,5,2,Nurse was helpful
+S012939,E007429,3,5,4,4,Facilities need improvement
+S933922,E004518,3,5,1,4,Long wait time
+S473738,E001971,2,3,2,1,Doctor explained well
+S531080,E001026,8,3,2,1,Facilities need improvement
+S158625,E006076,3,4,1,4,Doctor explained well
+S336613,E000380,8,4,4,5,Nurse was helpful
+S288377,E000827,6,4,2,5,Nurse was helpful
+S517335,E000606,5,5,3,5,Long wait time
+S456686,E004452,2,5,4,2,Great care
+S637879,E004798,4,2,2,1,Long wait time
+S216317,E002637,3,4,2,5,Nurse was helpful
+S186475,E000509,1,1,1,2,Great care
+S489911,E002436,10,1,4,1,Facilities need improvement
+S715634,E004306,8,5,5,3,
+S259673,E003554,6,4,2,2,Long wait time
+S399846,E007287,6,3,2,2,Great care
+S042874,E004357,7,2,3,1,Long wait time
+S227069,E004280,4,5,5,1,Long wait time
+S102646,E001069,7,1,2,4,
+S159568,E001297,8,2,2,4,Facilities need improvement
+S992141,E005651,9,5,1,1,Long wait time
+S809376,E005720,10,4,3,3,Great care
+S455245,E000973,3,4,5,5,Long wait time
+S325900,E002731,6,5,3,1,Great care
+S022480,E006577,2,3,2,2,
+S716136,E004554,6,5,3,4,Doctor explained well
+S668799,E000483,7,2,3,2,Nurse was helpful
+S960007,E003007,9,3,2,1,Nurse was helpful
+S181916,E007302,1,4,4,2,
+S598770,E007378,7,5,2,1,Long wait time
+S219587,E006903,4,3,2,1,Great care
+S546960,E006209,2,2,5,5,Facilities need improvement
+S763093,E004274,4,5,2,4,Nurse was helpful
+S590768,E000214,3,5,3,4,Nurse was helpful
+S265124,E003481,1,3,1,3,Nurse was helpful
+S521054,E002452,3,4,4,1,Long wait time
+S698206,E000748,6,1,5,3,Nurse was helpful
+S516928,E000559,6,2,4,1,Great care
+S822489,E003609,5,2,1,1,Facilities need improvement
+S549554,E001718,6,2,2,4,Great care
+S086616,E002826,9,4,3,5,
+S790025,E001202,10,4,3,2,Nurse was helpful
+S826817,E003638,8,2,4,5,Facilities need improvement
+S594909,E000528,10,2,2,2,Doctor explained well
+S354612,E002196,7,4,3,2,Nurse was helpful
+S889979,E007100,8,1,4,5,Nurse was helpful
+S673701,E001221,4,1,2,2,Great care
+S973344,E000320,5,4,5,1,Long wait time
+S522571,E006610,3,5,4,1,Doctor explained well
+S230562,E003879,1,4,3,3,Facilities need improvement
+S048225,E002740,2,2,2,4,Nurse was helpful
+S963428,E004293,3,2,1,3,Long wait time
+S004802,E001415,9,1,5,3,Facilities need improvement
+S519011,E004843,4,1,4,5,Doctor explained well
+S184897,E005669,10,5,4,3,Great care
+S425098,E005215,7,2,2,3,Great care
+S144568,E004385,10,3,1,2,Doctor explained well
+S625902,E007443,2,4,2,5,
+S610343,E004422,6,4,1,1,Doctor explained well
+S569608,E001008,2,2,1,4,Facilities need improvement
+S100208,E001325,0,2,3,4,Long wait time
+S700023,E003550,1,3,1,1,Great care
+S047704,E002010,8,1,5,5,Facilities need improvement
+S419148,E003330,10,1,4,2,Facilities need improvement
+S800384,E001240,1,1,3,4,Great care
+S957348,E003492,5,1,5,3,Great care
+S106611,E006707,6,4,3,3,Great care
+S038629,E005927,9,2,3,4,Great care
+S865493,E003396,2,3,5,1,Nurse was helpful
+S763958,E001863,5,2,3,5,Facilities need improvement
+S440199,E006377,2,2,5,4,Facilities need improvement
+S403573,E005346,9,2,4,5,Facilities need improvement
+S289205,E006027,7,4,1,4,Great care
+S363392,E007260,10,5,4,1,Great care
+S258326,E005241,0,2,2,2,Doctor explained well
+S072426,E002051,6,1,5,4,Facilities need improvement
+S838601,E004652,0,5,3,3,
+S275306,E000775,10,3,3,1,
+S145057,E006748,6,4,4,1,
+S711611,E005169,3,1,4,3,Long wait time
+S239070,E006764,2,3,1,4,Doctor explained well
+S153024,E005489,0,3,3,2,Long wait time
+S290426,E006352,10,2,2,3,Long wait time
+S006292,E007165,10,5,1,3,
+S262994,E007514,10,5,4,5,Facilities need improvement
+S500272,E001080,6,1,3,1,Long wait time
+S642205,E004880,10,4,3,3,Long wait time
+S647712,E002188,7,5,5,1,Doctor explained well
+S980690,E003551,10,3,4,1,Facilities need improvement
+S681119,E007053,7,4,3,2,
+S103725,E004911,10,5,3,3,Long wait time
+S630761,E005041,7,1,4,1,Long wait time
+S444609,E007072,6,3,3,3,Facilities need improvement
+S509724,E007769,8,4,3,1,Facilities need improvement
+S551939,E004008,10,1,3,2,Facilities need improvement
+S874761,E002661,8,2,5,1,
+S207865,E006521,4,2,3,5,Doctor explained well
+S525770,E000841,4,1,4,5,Facilities need improvement
+S854001,E004394,1,4,5,4,
+S801818,E006628,9,4,4,2,Facilities need improvement
+S349949,E002799,10,2,1,2,
+S302322,E002147,10,4,3,4,Nurse was helpful
+S003389,E006861,8,3,4,3,Doctor explained well
+S449973,E005181,3,3,4,1,
+S441002,E000884,2,2,3,5,Doctor explained well
+S962566,E003256,10,4,2,2,Long wait time
+S767710,E003036,0,1,1,1,Doctor explained well
+S594911,E002923,5,4,5,2,Long wait time
+S103885,E003056,1,4,3,5,Great care
+S912533,E004219,3,4,4,2,Great care
+S938618,E001753,2,2,1,5,Facilities need improvement
+S564547,E001466,9,2,4,2,Doctor explained well
+S195231,E001105,2,3,5,3,Facilities need improvement
+S966058,E004807,9,4,2,1,Long wait time
+S859604,E003541,4,5,2,5,Nurse was helpful
+S896431,E005220,8,3,4,5,Long wait time
+S586352,E004096,7,3,1,2,Great care
+S135151,E000994,1,1,3,4,Great care
+S822363,E004742,2,4,5,1,
+S584011,E004128,6,4,1,5,Facilities need improvement
+S409261,E001501,7,5,2,4,Great care
+S662374,E002864,8,3,4,2,Facilities need improvement
+S490538,E007805,9,1,4,4,Nurse was helpful
+S830858,E004656,0,5,2,1,Nurse was helpful
+S917738,E000489,2,2,5,1,Doctor explained well
+S451515,E001057,8,1,3,2,
+S595225,E001337,6,2,3,5,
+S618726,E005389,10,1,5,2,Nurse was helpful
+S849503,E003490,3,2,4,2,Facilities need improvement
+S762758,E003755,2,2,1,4,Nurse was helpful
+S234003,E005409,4,4,5,5,Great care
+S245617,E006622,2,5,1,4,Nurse was helpful
+S829998,E001303,8,3,3,4,Facilities need improvement
+S142515,E005315,10,5,4,5,
+S031128,E003784,4,2,2,5,Doctor explained well
+S916525,E003163,10,4,3,3,Doctor explained well
+S345998,E005782,10,4,2,1,Long wait time
+S492795,E002720,10,1,3,2,Facilities need improvement
+S523488,E007755,2,3,1,5,Nurse was helpful
+S518658,E006611,10,4,1,5,Great care
+S160722,E003701,6,1,3,3,Doctor explained well
+S090989,E002117,9,5,3,5,Great care
+S888476,E002989,6,2,4,5,Great care
+S676150,E007112,8,3,1,3,Doctor explained well
+S402798,E006383,7,4,2,3,Great care
+S726602,E002152,2,1,1,4,
+S044255,E000121,2,2,4,4,
+S541392,E000992,0,3,2,1,Nurse was helpful
+S246649,E003239,4,1,5,3,Facilities need improvement
+S183935,E006108,10,4,4,4,Great care
+S114730,E004443,4,2,2,5,Doctor explained well
+S455794,E002458,10,5,1,3,Nurse was helpful
+S172382,E000447,6,3,1,3,Doctor explained well
+S704343,E005178,6,2,4,4,Nurse was helpful
+S454458,E001092,5,3,5,1,Nurse was helpful
+S930755,E002419,0,1,3,3,Long wait time
+S916984,E007605,2,3,2,5,Great care
+S692480,E000891,9,4,1,3,Doctor explained well
+S263225,E000977,6,2,3,5,Nurse was helpful
+S828899,E002795,8,3,4,3,Doctor explained well
+S522438,E000505,6,5,2,1,Doctor explained well
+S577127,E006392,4,2,3,1,Doctor explained well
+S278551,E001034,10,3,5,3,Facilities need improvement
+S144557,E002738,5,4,2,4,Nurse was helpful
+S737787,E007092,6,1,1,2,Great care
+S529997,E006328,7,4,5,2,Facilities need improvement
+S295044,E002711,0,1,5,1,Facilities need improvement
+S446349,E002536,3,2,2,5,
+S378246,E007761,6,1,2,2,Nurse was helpful
+S605628,E004121,9,1,4,1,Nurse was helpful
+S941152,E002788,5,4,1,3,
+S556290,E002905,7,1,3,2,Great care
+S685663,E003838,10,4,2,1,Long wait time
+S249802,E006020,6,5,1,4,Long wait time
+S081473,E004320,3,2,5,1,Doctor explained well
+S102300,E006166,10,4,4,3,Nurse was helpful
+S519586,E005910,2,2,1,4,
+S397088,E002814,7,5,4,3,Doctor explained well
+S874925,E005182,0,1,1,5,Facilities need improvement
+S624366,E000737,6,5,4,1,Doctor explained well
+S215401,E007601,8,5,5,5,Long wait time
+S442745,E002861,8,3,2,4,Doctor explained well
+S075445,E007289,2,3,2,1,Long wait time
+S312253,E007294,4,4,3,2,
+S038852,E003835,5,4,1,2,Doctor explained well
+S592014,E005176,6,5,5,5,Nurse was helpful
+S874714,E004050,7,5,1,1,Nurse was helpful
+S521231,E000125,3,4,3,2,Doctor explained well
+S468368,E004860,8,3,5,5,
+S958019,E004954,10,3,1,2,Nurse was helpful
+S641145,E005121,10,4,2,2,Long wait time
+S270157,E003993,8,1,1,2,
+S574294,E007311,4,1,1,2,Long wait time
+S183219,E002837,3,2,2,3,
+S414285,E005422,8,2,1,4,Doctor explained well
+S617409,E000093,5,5,3,1,Great care
+S219620,E006484,8,3,2,1,
+S381142,E003428,1,5,5,1,Doctor explained well
+S590799,E002808,4,3,5,1,Nurse was helpful
+S636817,E001970,5,4,1,2,Long wait time
+S734817,E002233,7,4,4,4,Facilities need improvement
+S346905,E000548,0,3,3,5,Facilities need improvement
+S524678,E004700,4,5,1,5,
+S916021,E005765,8,2,2,2,Long wait time
+S145836,E002663,7,4,2,5,
+S470171,E006457,9,4,3,2,Nurse was helpful
+S673060,E005140,6,3,2,4,
+S283189,E004848,8,1,3,2,Doctor explained well
+S502095,E001007,7,2,3,4,Doctor explained well
+S610336,E004369,7,2,5,1,Great care
+S972457,E007806,6,3,4,1,Facilities need improvement
+S193942,E003528,8,5,1,1,Great care
+S062847,E006806,6,5,4,5,Great care
+S611915,E005332,0,4,4,5,Great care
+S452491,E002212,7,1,2,5,Long wait time
+S775032,E007074,4,5,3,4,Nurse was helpful
+S632364,E002044,7,1,3,1,Great care
+S946744,E001612,10,2,5,5,
+S809230,E007703,0,2,2,4,Great care
+S733065,E001044,3,2,5,3,Doctor explained well
+S443127,E001982,5,5,1,5,
+S965876,E000006,4,2,3,2,Long wait time
+S060164,E006464,5,2,4,1,Great care
+S703758,E003349,1,3,4,4,Great care
+S394205,E006619,5,1,3,2,Long wait time
+S646367,E004637,2,5,1,2,Great care
+S056354,E001862,4,3,1,3,Nurse was helpful
+S421401,E002903,9,2,5,4,Great care
+S188167,E004824,5,4,1,1,
+S749437,E002088,1,5,5,4,Facilities need improvement
+S127369,E001200,10,4,4,4,Facilities need improvement
+S914809,E004038,10,4,1,5,Doctor explained well
+S086678,E003866,7,5,2,2,Great care
+S254500,E005760,5,4,4,4,Facilities need improvement
+S006688,E003750,4,4,2,2,Doctor explained well
+S173040,E000530,1,2,3,1,Nurse was helpful
+S809014,E006378,1,2,5,4,Facilities need improvement
+S134479,E005262,3,3,4,2,Nurse was helpful
+S594953,E000369,6,2,3,2,Facilities need improvement
+S399584,E001601,2,1,5,5,Nurse was helpful
+S862086,E004580,8,5,4,4,Facilities need improvement
+S853527,E006483,10,5,1,4,Facilities need improvement
+S296068,E007610,6,4,2,2,Long wait time
+S079719,E002500,9,3,2,5,Long wait time
+S788015,E003009,1,1,3,4,Long wait time
+S837128,E004387,2,3,4,1,Facilities need improvement
+S923047,E002984,9,4,5,5,
+S382461,E004591,0,5,4,2,Long wait time
+S838090,E005150,1,2,3,4,Long wait time
+S423441,E004756,9,4,1,3,Doctor explained well
+S646526,E001268,5,1,5,5,Facilities need improvement
+S700534,E006173,3,1,2,1,Great care
+S277025,E005750,7,5,1,5,
+S135832,E002139,4,2,5,4,Doctor explained well
+S110235,E000735,2,2,1,2,
+S564396,E001166,7,4,4,2,Long wait time
+S047020,E000562,8,3,5,3,Doctor explained well
+S575089,E006143,2,2,4,5,Doctor explained well
+S040989,E006501,6,2,2,4,
+S637841,E002321,9,3,3,2,Long wait time
+S702648,E001261,2,5,3,3,
+S086972,E007445,0,5,3,1,Nurse was helpful
+S628285,E000302,10,3,5,5,Great care
+S144393,E006196,10,1,5,4,
+S086809,E001150,6,1,1,3,Doctor explained well
+S927046,E001187,6,5,1,1,
+S772218,E003954,7,4,2,1,Doctor explained well
+S416493,E001918,4,5,5,2,Long wait time
+S456395,E005647,2,3,5,2,Great care
+S029509,E003792,2,1,2,2,Facilities need improvement
+S531965,E000543,2,1,3,4,Great care
+S191732,E007859,2,1,3,2,Nurse was helpful
+S238166,E006192,4,2,4,2,Long wait time
+S294577,E003986,2,4,4,5,
+S960965,E005195,6,4,5,4,Facilities need improvement
+S902549,E001905,2,1,1,3,Nurse was helpful
+S964216,E002781,2,4,5,5,
+S396204,E006643,8,3,3,2,Nurse was helpful
+S997325,E001161,1,3,2,2,Great care
+S200055,E002828,5,4,2,2,Nurse was helpful
+S246551,E006181,10,5,2,4,Doctor explained well
+S270015,E006114,3,5,5,4,Nurse was helpful
+S655988,E001074,2,2,5,3,Great care
+S166309,E006394,6,1,2,4,Doctor explained well
+S173216,E001269,7,2,2,2,Facilities need improvement
+S797605,E000571,4,4,3,3,Nurse was helpful
+S085880,E006092,8,2,5,1,Doctor explained well
+S878722,E000542,8,3,1,1,Doctor explained well
+S628252,E005103,9,3,5,5,Facilities need improvement
+S271409,E001708,9,3,4,3,Long wait time
+S883435,E006424,8,1,1,5,Nurse was helpful
+S112601,E003794,7,4,2,3,Doctor explained well
+S221940,E005068,3,4,4,1,Great care
+S153688,E001750,5,4,3,5,
+S264010,E000219,1,2,5,3,Long wait time
+S365180,E003162,4,2,5,4,
+S921488,E001873,9,2,2,4,Doctor explained well
+S319636,E006758,0,2,4,5,Facilities need improvement
+S216694,E003525,10,5,1,5,Long wait time
+S216731,E002127,7,2,4,3,Facilities need improvement
+S220023,E000245,3,5,4,2,Long wait time
+S232006,E007488,6,4,5,4,Doctor explained well
+S204462,E004307,3,5,4,1,Long wait time
+S729936,E005020,3,1,4,4,Great care
+S599447,E003744,5,5,4,4,Doctor explained well
+S277062,E006971,6,1,2,4,
+S341738,E007666,6,3,3,3,Great care
+S944276,E003019,5,2,3,4,Long wait time
+S472422,E007557,10,1,1,3,Nurse was helpful
+S702748,E003423,2,4,2,3,Nurse was helpful
+S815190,E007234,8,5,3,2,Long wait time
+S791211,E001193,6,5,5,4,Doctor explained well
+S307386,E004928,3,5,1,3,Doctor explained well
+S119377,E000905,3,2,4,2,Long wait time
+S620931,E004676,7,4,3,3,Doctor explained well
+S646394,E003052,7,3,2,5,Nurse was helpful
+S220897,E001890,10,1,3,4,
+S145149,E006413,7,1,4,1,Great care
+S855017,E002603,10,5,2,2,Nurse was helpful
+S386969,E005831,1,3,4,2,Nurse was helpful
+S974821,E004791,8,5,1,1,Doctor explained well
+S561230,E006823,3,4,4,1,Doctor explained well
+S464705,E003097,7,4,3,5,Doctor explained well
+S169086,E006265,0,5,1,5,Long wait time
+S455352,E005741,8,2,4,2,Nurse was helpful
+S113826,E004793,7,4,3,1,Great care
+S102541,E005904,5,1,5,4,Doctor explained well
+S819074,E004071,2,2,5,1,
+S770162,E003793,5,1,5,4,Great care
+S106988,E004156,4,5,1,1,
+S423646,E007727,5,4,1,3,
+S813961,E001323,9,4,1,4,Facilities need improvement
+S489039,E003658,1,3,5,5,Facilities need improvement
+S505617,E003876,10,5,2,1,Doctor explained well
+S385612,E006980,1,2,5,4,Doctor explained well
+S837090,E000377,3,2,1,3,Great care
+S647621,E000151,9,1,5,2,
+S605030,E006721,7,5,1,4,Nurse was helpful
+S568369,E007530,0,4,5,1,
+S544942,E002549,1,1,2,1,Nurse was helpful
+S450437,E001113,8,5,1,2,Great care
+S357384,E003137,4,4,2,4,Great care
+S647571,E003891,1,5,2,4,Doctor explained well
+S222559,E001819,0,4,3,5,Nurse was helpful
+S019013,E002003,3,2,4,3,Facilities need improvement
+S904268,E006580,2,3,5,1,Facilities need improvement
+S063248,E006183,6,2,5,5,
+S283440,E005265,10,1,1,5,Long wait time
+S070382,E000099,8,1,3,4,Long wait time
+S511153,E004471,6,3,3,2,
+S528530,E001014,1,2,2,5,Great care
+S930730,E001842,8,4,1,1,Facilities need improvement
+S523982,E005764,6,3,4,4,Doctor explained well
+S230866,E005365,4,4,4,2,Long wait time
+S021025,E004978,4,2,4,2,Great care
+S396497,E005769,7,1,1,3,Long wait time
+S901514,E001945,10,4,4,2,Nurse was helpful
+S546491,E002741,2,2,5,2,
+S880702,E005463,8,3,4,4,Facilities need improvement
+S182524,E001585,6,1,3,4,Long wait time
+S049632,E002699,2,4,5,5,
+S824129,E004199,2,2,2,4,Great care
+S398783,E003920,10,4,3,4,Long wait time
+S750592,E000593,4,1,2,1,Long wait time
+S967326,E000681,3,5,2,4,Nurse was helpful
+S233324,E006699,7,2,4,3,Great care
+S207126,E000626,9,3,4,3,
+S975121,E006508,8,1,1,2,Great care
+S747377,E007884,10,4,5,3,Great care
+S420797,E004146,7,5,3,2,Long wait time
+S038673,E001575,6,2,1,4,Great care
+S091612,E005472,3,5,3,2,Long wait time
+S193940,E003055,5,2,1,2,Long wait time
+S618209,E002669,3,2,4,2,Great care
+S756275,E000169,6,2,5,3,Nurse was helpful
+S167294,E001305,3,1,1,4,Nurse was helpful
+S868106,E002995,6,3,2,3,Doctor explained well
+S125893,E002330,2,2,1,3,Nurse was helpful
+S845566,E004858,3,3,4,3,Great care
+S581284,E005127,1,2,1,3,Nurse was helpful
+S511286,E006348,4,2,2,5,Doctor explained well
+S773921,E003031,9,4,3,5,Long wait time
+S668759,E006527,9,3,5,5,Doctor explained well
+S397959,E006225,1,1,1,2,Facilities need improvement
+S810952,E006083,8,1,5,4,Great care
+S032287,E007418,8,5,1,1,Nurse was helpful
+S323522,E001784,0,2,5,3,Nurse was helpful
+S974543,E000887,5,1,3,1,Nurse was helpful
+S239684,E006029,1,2,4,4,
+S616859,E004376,0,3,2,1,Doctor explained well
+S894317,E002522,6,3,1,4,Facilities need improvement
+S582330,E003850,7,1,2,5,Great care
+S407564,E005469,5,4,3,4,
+S823076,E004470,5,4,3,3,Doctor explained well
+S885776,E005049,10,3,3,2,Great care
+S849638,E000031,1,4,4,3,Facilities need improvement
+S050686,E006364,2,3,3,5,Long wait time
+S839674,E005960,2,4,4,4,Doctor explained well
+S823416,E003418,0,2,1,4,Long wait time
+S367436,E001729,8,2,1,2,Great care
+S945244,E007270,3,5,4,5,Doctor explained well
+S626164,E005194,8,4,5,3,Nurse was helpful
+S233082,E000771,6,5,1,1,Doctor explained well
+S585737,E003915,10,3,1,3,Doctor explained well
+S408863,E003762,4,1,1,5,Facilities need improvement
+S521139,E003154,3,4,3,1,Doctor explained well
+S084452,E005236,10,4,2,1,Great care
+S890782,E004014,10,4,5,5,Great care
+S726913,E000318,3,3,2,1,Doctor explained well
+S847604,E005321,7,4,3,3,Facilities need improvement
+S170775,E005001,7,5,5,4,Facilities need improvement
+S078676,E000207,0,1,3,4,Long wait time
+S455243,E007025,8,3,3,4,Doctor explained well
+S164545,E004057,9,5,5,1,Facilities need improvement
+S025543,E000143,0,3,2,2,Facilities need improvement
+S848688,E006312,1,2,1,2,
+S526508,E001225,4,3,2,3,Facilities need improvement
+S420231,E005572,2,1,3,5,Doctor explained well
+S791280,E006416,7,2,3,1,Facilities need improvement
+S822062,E007463,6,2,2,3,Long wait time
+S090447,E006123,3,2,4,5,Nurse was helpful
+S240151,E000865,10,1,4,4,Great care
+S569405,E005385,10,1,5,4,
+S506078,E005672,10,4,5,5,
+S805278,E000041,9,4,3,1,Great care
+S813676,E002080,4,1,2,2,
+S732321,E001222,6,2,2,5,Doctor explained well
+S729969,E005776,4,5,5,3,Long wait time
+S296483,E006673,1,3,3,3,Facilities need improvement
+S597205,E004733,1,1,2,1,Great care
+S705605,E003455,9,5,1,5,
+S522303,E001744,10,1,5,5,Long wait time
+S807720,E005111,7,1,1,1,Facilities need improvement
+S135822,E006028,8,4,4,1,Doctor explained well
+S638070,E005834,3,4,4,5,Long wait time
+S457974,E000970,3,5,5,1,Nurse was helpful
+S605216,E000108,9,5,2,5,Long wait time
+S662349,E001537,1,5,5,1,Nurse was helpful
+S600488,E003980,3,2,2,4,Nurse was helpful
+S755801,E002206,4,2,1,3,Nurse was helpful
+S725475,E001345,3,3,2,1,Facilities need improvement
+S938164,E002766,6,3,1,5,Great care
+S356436,E001103,7,1,1,3,Nurse was helpful
+S708275,E007436,6,3,2,4,
+S514234,E004185,2,5,4,3,Great care
+S251905,E001934,5,2,3,1,Doctor explained well
+S385641,E004721,9,3,3,3,Long wait time
+S181712,E003581,10,2,2,2,Great care
+S000996,E007836,4,1,4,1,Long wait time
+S265531,E004318,1,2,1,2,Nurse was helpful
+S301158,E006397,5,2,1,2,Long wait time
+S983482,E007430,3,2,5,5,Nurse was helpful
+S016611,E006733,10,2,2,2,Great care
+S833505,E001999,0,2,5,4,Facilities need improvement
+S327354,E001584,5,1,4,2,Facilities need improvement
+S283364,E004167,5,3,2,2,
+S785832,E000462,7,5,4,2,
+S601131,E002020,1,2,4,5,Nurse was helpful
+S540673,E007678,6,2,4,3,Long wait time
+S343690,E003134,9,4,4,2,
+S321399,E002718,10,2,2,3,Great care
+S335533,E007024,6,5,5,2,Doctor explained well
+S311607,E003790,0,2,3,4,Facilities need improvement
+S086140,E007376,0,3,3,1,Great care
+S324528,E006106,5,4,5,4,Facilities need improvement
+S586426,E002363,5,5,1,2,Nurse was helpful
+S049337,E003083,6,5,2,4,Long wait time
+S562902,E002447,1,1,3,2,Long wait time
+S717550,E001287,8,3,2,2,Great care
+S212786,E006023,0,2,4,3,Facilities need improvement
+S578092,E000896,0,1,5,2,Long wait time
+S428885,E006937,10,3,5,1,Doctor explained well
+S120114,E004116,4,2,2,5,Facilities need improvement
+S807621,E006636,4,4,5,5,Doctor explained well
+S564610,E001331,1,1,3,1,Facilities need improvement
+S897672,E005259,10,5,4,1,
+S716593,E006684,3,5,1,1,Great care
+S763465,E007868,5,1,1,4,Doctor explained well
+S087007,E001407,8,1,1,5,Long wait time
+S765128,E002053,10,2,5,2,Facilities need improvement
+S415026,E006997,0,2,2,1,Nurse was helpful
+S329393,E003939,3,5,1,1,Long wait time
+S703723,E006797,6,1,4,3,Facilities need improvement
+S446008,E006372,4,1,2,5,Facilities need improvement
+S631596,E000533,10,2,3,3,Long wait time
+S706535,E006808,8,2,5,3,Great care
+S842241,E005822,5,4,4,5,Facilities need improvement
+S290250,E006541,6,2,1,3,Great care
+S369944,E002449,5,1,2,4,Doctor explained well
+S478882,E003502,10,2,4,1,Nurse was helpful
+S102005,E002106,4,3,4,2,Facilities need improvement
+S022801,E005671,3,2,1,2,Facilities need improvement
+S761679,E006251,3,3,2,3,Nurse was helpful
+S082278,E004624,10,5,1,5,Great care
+S543217,E007309,1,5,1,2,Long wait time
+S230679,E004169,6,1,2,2,Facilities need improvement
+S979703,E004704,5,5,2,3,
+S166188,E005538,3,4,5,3,Nurse was helpful
+S298716,E003413,8,3,5,1,Great care
+S266730,E005094,9,4,3,4,Nurse was helpful
+S889304,E007322,3,4,5,1,Facilities need improvement
+S649760,E002528,7,1,2,5,
+S091397,E006110,2,5,1,5,Long wait time
+S172711,E005448,10,2,1,5,Nurse was helpful
+S378591,E005324,6,5,3,4,Long wait time
+S039302,E002698,5,5,4,1,
+S382156,E006267,1,4,4,2,Nurse was helpful
+S964485,E001684,2,2,4,3,Facilities need improvement
+S945000,E002679,7,3,4,3,Long wait time
+S443847,E003890,5,1,1,2,Long wait time
+S012625,E006318,10,5,4,2,Nurse was helpful
+S701726,E007255,8,5,5,5,Long wait time
+S324056,E002046,6,5,4,2,
+S299527,E003198,5,4,1,2,Doctor explained well
+S441048,E004806,0,4,5,5,Doctor explained well
+S134096,E003796,2,5,1,5,Facilities need improvement
+S625134,E006403,4,1,2,2,Doctor explained well
+S871025,E006427,1,3,3,2,Nurse was helpful
+S549386,E005141,2,3,5,2,Facilities need improvement
+S307564,E006783,6,5,4,2,Long wait time
+S034887,E001812,6,1,1,2,Doctor explained well
+S236830,E001494,5,4,2,2,Nurse was helpful
+S908400,E003473,0,2,3,2,Facilities need improvement
+S870440,E007254,4,5,2,4,Nurse was helpful
+S718781,E007285,10,4,5,2,Nurse was helpful
+S588937,E006307,10,4,1,2,Doctor explained well
+S140634,E000119,1,4,2,4,Nurse was helpful
+S331403,E003840,3,1,2,2,Facilities need improvement
+S904957,E007726,8,5,3,3,Nurse was helpful
+S054434,E007730,8,1,4,3,Facilities need improvement
+S573599,E003044,6,3,1,2,Doctor explained well
+S161808,E004228,1,4,2,2,Doctor explained well
+S590411,E000183,6,5,4,2,Facilities need improvement
+S910686,E006995,2,5,4,3,
+S932378,E006916,0,3,4,4,
+S656543,E001730,6,5,1,1,Long wait time
+S343506,E007629,4,5,1,4,Nurse was helpful
+S760866,E005171,5,4,2,3,Great care
+S054365,E000037,3,3,4,2,Long wait time
+S588840,E005061,3,5,3,3,
+S550076,E003646,0,1,5,5,Nurse was helpful
+S057095,E007482,3,4,1,1,Long wait time
+S850894,E004028,2,2,1,5,Nurse was helpful
+S176104,E007051,2,1,2,1,Long wait time
+S610217,E007905,5,3,3,5,Facilities need improvement
+S891850,E005561,7,3,2,5,Nurse was helpful
+S546073,E006924,1,4,5,4,Nurse was helpful
+S367886,E000544,10,4,1,5,Great care
+S925249,E007523,7,1,4,2,Doctor explained well
+S601148,E002332,5,4,4,5,Doctor explained well
+S324850,E004329,6,3,4,5,Facilities need improvement
+S918910,E002237,0,3,2,2,Great care
+S163894,E000666,0,1,1,3,Nurse was helpful
+S384131,E001283,10,5,4,5,Great care
+S107642,E004571,4,1,1,5,Doctor explained well
+S295243,E001036,0,5,5,1,Long wait time
+S301838,E007263,5,5,3,1,Nurse was helpful
+S319329,E003185,0,4,1,1,
+S454093,E000233,9,2,2,5,Doctor explained well
+S619261,E001488,4,2,4,2,Great care
+S832419,E003074,6,5,4,1,Nurse was helpful
+S754338,E002011,3,1,2,4,Long wait time
+S934291,E003816,2,1,2,4,Nurse was helpful
+S926901,E006152,5,3,5,2,
+S650234,E004196,3,3,1,4,Long wait time
+S077367,E003743,0,1,3,5,Long wait time
+S152486,E004744,7,3,4,4,Great care
+S770867,E002411,8,3,5,4,Facilities need improvement
+S412399,E001271,6,2,3,1,Doctor explained well
+S468042,E002432,10,3,3,1,Facilities need improvement
+S639403,E006104,8,1,5,2,Great care
+S287839,E001417,8,1,3,2,Facilities need improvement
+S323794,E003547,7,5,1,3,Facilities need improvement
+S342079,E002180,6,2,1,3,Nurse was helpful
+S582081,E003724,7,1,3,5,Long wait time
+S727565,E000028,4,4,4,3,Great care
+S822826,E003905,8,3,2,5,Facilities need improvement
+S246928,E000122,7,5,5,3,Great care
+S336575,E004412,4,3,4,4,Great care
+S485963,E005626,7,5,5,3,Doctor explained well
+S554876,E003642,10,5,1,3,Facilities need improvement
+S765255,E001641,5,2,4,5,
+S485347,E001189,6,4,1,4,Nurse was helpful
+S463522,E001757,6,3,1,1,Nurse was helpful
+S471127,E005628,5,5,5,3,Doctor explained well
+S468327,E000786,3,4,2,1,Doctor explained well
+S540007,E006769,1,3,5,3,Great care
+S343752,E000136,5,3,2,3,Long wait time
+S625385,E007183,10,5,4,1,
+S384570,E003827,10,4,2,1,Nurse was helpful
+S901674,E002477,0,5,3,1,Long wait time
+S134397,E002624,0,5,3,4,Facilities need improvement
+S533806,E000578,6,2,2,1,Long wait time
+S447655,E007699,8,1,5,3,
+S481603,E000299,1,5,3,2,
+S173576,E002959,9,1,2,5,Doctor explained well
+S039095,E000993,1,3,4,2,
+S324907,E001524,7,3,2,2,Facilities need improvement
+S568696,E001724,10,3,4,5,Great care
+S452106,E006607,3,1,2,4,Nurse was helpful

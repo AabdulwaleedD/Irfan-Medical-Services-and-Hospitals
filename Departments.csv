@@ -1,0 +1,13 @@
+department_id,name,type
+D000001,Emergency,ED
+D000002,Inpatient Ward,Inpatient
+D000003,Outpatient Clinic,Outpatient
+D000004,Surgery/OR,Surgery
+D000005,ICU,Inpatient
+D000006,Radiology,Imaging
+D000007,Laboratory,Lab
+D000008,Pharmacy,Pharmacy
+D000009,Pediatrics,Outpatient
+D000010,Obstetrics,Inpatient
+D000011,Cardiology,Outpatient
+D000012,Endocrinology,Outpatient

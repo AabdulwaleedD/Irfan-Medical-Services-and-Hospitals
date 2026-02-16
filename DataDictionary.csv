@@ -1,0 +1,132 @@
+table,column,dtype,description
+Patients,patient_id,object,Anonymized unique patient identifier
+Patients,mrn,object,
+Patients,first_name,object,
+Patients,last_name,object,
+Patients,gender,object,
+Patients,dob,object,
+Patients,race,object,
+Patients,ethnicity,object,
+Patients,city,object,
+Patients,state,object,
+Patients,country,object,
+Patients,postal_code,object,
+Patients,insurance_plan_id,object,
+Patients,primary_provider_id,object,
+Patients,smoker_flag,int64,
+Patients,diabetic_flag,int64,
+Patients,hypertensive_flag,int64,
+Patients,death_date,object,
+Providers,provider_id,object,
+Providers,npi,object,
+Providers,name,object,
+Providers,specialty,object,
+Providers,department_id,object,
+Departments,department_id,object,
+Departments,name,object,
+Departments,type,object,
+Payers,payer_id,object,
+Payers,payer_name,object,
+Payers,plan_type,object,
+Encounters,encounter_id,object,Unique visit/encounter identifier
+Encounters,patient_id,object,Anonymized unique patient identifier
+Encounters,encounter_type,object,"ED, Inpatient, Outpatient, or Surgery"
+Encounters,admit_datetime,datetime64[ns],Encounter start/admit timestamp
+Encounters,discharge_datetime,datetime64[ns],Encounter end/discharge timestamp
+Encounters,department_id,object,
+Encounters,provider_id,object,
+Encounters,payer_id,object,
+Encounters,visit_reason,object,
+Encounters,discharge_disposition,object,
+Encounters,triage_acuity,float64,ED triage level (1=most urgent to 5=least)
+Encounters,arrival_to_triage_min,float64,Minutes from ED arrival to triage
+Encounters,triage_to_md_min,float64,Minutes from triage to clinician
+Encounters,md_to_dispo_min,float64,Minutes from clinician to disposition
+Encounters,length_of_stay_hours,float64,Computed LOS in hours
+Encounters,readmission_flag,int64,1 if readmitted within 30 days of prior discharge
+Encounters,index_admission_id,object,Encounter ID of the prior admission (for readmission linkage)
+Diagnoses,encounter_id,object,Unique visit/encounter identifier
+Diagnoses,dx_seq,int64,
+Diagnoses,icd10_code,object,Diagnosis code (ICD-10)
+Diagnoses,icd10_desc,object,
+Diagnoses,principal_flag,int64,
+Diagnoses,chronic_flag,int64,
+Procedures,encounter_id,object,Unique visit/encounter identifier
+Procedures,proc_seq,int64,
+Procedures,cpt_code,object,Procedure code (CPT)
+Procedures,cpt_desc,object,
+Procedures,procedure_datetime,datetime64[ns],
+Procedures,or_room,object,
+Medications,medication_id,object,
+Medications,encounter_id,object,Unique visit/encounter identifier
+Medications,rx_name,object,
+Medications,atc_code,object,
+Medications,dose,object,
+Medications,route,object,
+Medications,start_datetime,datetime64[ns],
+Medications,end_datetime,datetime64[ns],
+Labs,lab_result_id,object,
+Labs,encounter_id,object,Unique visit/encounter identifier
+Labs,loinc_code,object,Lab test code (LOINC)
+Labs,test_name,object,
+Labs,specimen_datetime,datetime64[ns],
+Labs,result_value,float64,Quantitative lab result
+Labs,result_unit,object,
+Labs,reference_low,float64,Lower bound of normal range
+Labs,reference_high,float64,Upper bound of normal range
+Labs,abnormal_flag,int64,
+Vitals,vital_id,object,
+Vitals,encounter_id,object,Unique visit/encounter identifier
+Vitals,measure_datetime,datetime64[ns],
+Vitals,systolic_bp,int64,
+Vitals,diastolic_bp,int64,
+Vitals,heart_rate,int64,
+Vitals,resp_rate,int64,
+Vitals,temperature_c,float64,
+Vitals,spo2,int64,
+Vitals,bmi,float64,
+Appointments,appointment_id,object,
+Appointments,patient_id,object,Anonymized unique patient identifier
+Appointments,scheduled_datetime,datetime64[ns],
+Appointments,checkin_datetime,datetime64[ns],
+Appointments,visit_start_datetime,datetime64[ns],
+Appointments,visit_end_datetime,datetime64[ns],
+Appointments,provider_id,object,
+Appointments,department_id,object,
+Appointments,status,object,Appointment status (Completed/No-show/Cancelled)
+Appointments,referral_date,datetime64[ns],
+Imaging,imaging_id,object,
+Imaging,encounter_id,object,Unique visit/encounter identifier
+Imaging,modality,object,
+Imaging,body_part,object,
+Imaging,order_datetime,datetime64[ns],
+Imaging,start_datetime,datetime64[ns],
+Imaging,end_datetime,datetime64[ns],
+Imaging,report_turnaround_min,int64,
+Imaging,critical_result_flag,int64,
+Claims,claim_id,object,
+Claims,encounter_id,object,Unique visit/encounter identifier
+Claims,total_charges,float64,Gross charges for the encounter
+Claims,allowed_amount,float64,Contracted/allowed amount by payer
+Claims,payments,float64,Payments received
+Claims,adjustments,float64,Contractual adjustments/write-offs
+Claims,denials_count,int64,
+Claims,claim_status,object,Paid/Denied/Pending
+Claims,submission_date,datetime64[ns],
+Claims,paid_date,datetime64[ns],
+Claims,ar_days,float64,Accounts receivable days from submission to payment
+Satisfaction,survey_id,object,
+Satisfaction,encounter_id,object,Unique visit/encounter identifier
+Satisfaction,likelihood_to_recommend,int64,0–10
+Satisfaction,staff_communication,int64,
+Satisfaction,cleanliness,int64,
+Satisfaction,overall,int64,1–5 overall satisfaction
+Satisfaction,comments,object,
+Inventory,item_id,object,
+Inventory,department_id,object,
+Inventory,item_name,object,
+Inventory,category,object,
+Inventory,on_hand_qty,int64,
+Inventory,reorder_point,int64,
+Inventory,unit_cost,float64,
+Inventory,last_updated,datetime64[ns],
